@@ -1,9 +1,8 @@
-var menuIcon = document.querySelector("menu-icon");
-var siderbar = document.querySelector("siderbar");
-var container = document.querySelector("container");
+var menuIcon = document.querySelector(".menu-icon"); // Agregamos un punto para seleccionar por clase
+var sidebar = document.querySelector(".siderbar");    // Agregamos un punto para seleccionar por clase
+var container = document.querySelector(".container"); // Agregamos un punto para seleccionar por clase
 
-
-menuIcon.onClick = function(){
-    siderbar.classList.toggle("small-siderbar");
+menuIcon.addEventListener("click", function() { // Usamos addEventListener en lugar de onClick
+    sidebar.classList.toggle("siderbar");
     container.classList.toggle("large-container");
-}
+});
