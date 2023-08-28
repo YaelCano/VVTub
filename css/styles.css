@@ -60,7 +60,7 @@ nav{
 .nav-middle .search-box img{
     width: 15px;
 }
-/*------SIDER*/
+/*------SIDER-BAR*/
 .siderbar{
     background: #fff;
     width: 15%;
@@ -107,6 +107,7 @@ nav{
     border-radius: 50%;
     margin-right: 20px;
 }
+/*Small-siderbar**/
 .small-siderbar{
     width: 5%;
 }
@@ -371,4 +372,24 @@ nav{
 .old-comment .acomment-action a{
     color: #0000ff;
     
+}
+@media(max-width:900px){
+    .play-video{
+        flex-basis: 100%;
+    }
+    .rigth-sidebar{
+        flex-basis: 100%;
+    }
+    .play-container{
+        padding-left: 5%;
+    }
+    .vid-description{
+        padding-left: 0;
+    }
+    .play-video .play-video-info a{
+        margin-left: 0;
+        margin-right: 15px;
+        margin-top: 15px;
+    }
+
 }
