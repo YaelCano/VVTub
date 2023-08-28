@@ -7,6 +7,6 @@ var sidebar = document.querySelector(".siderbar");    // Agregamos un punto para
 var container = document.querySelector(".container"); // Agregamos un punto para seleccionar por clase
 
 menuIcon.onclick = function() { 
-    sidebar.classList.toggle("siderbar");
+    sidebar.classList.toggle("small-siderbar");
     container.classList.toggle("large-container");
 }
