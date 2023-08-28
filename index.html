@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="./images/Youtube_logo.png">
     <link rel="stylesheet" href="css/styles.css">
-    <script src="js/main.js"></script>
+    <script src="js/main.js" type="module"></script>
     <title>VisVTube</title>
 </head>
 <body>
@@ -20,8 +20,13 @@
                 <input type="text" placeholder="Search">
                 <img src="images/search.png" alt="Search">
             </div>
-            <img src="images/voice-search.png" class="mic-icon">
-
+            <div class="div-flex">
+                <div id="active">
+                    <ul id="SearchAll">
+                        
+                    </ul>
+                </div>
+            </div>
         </div>
         <div class="nav-right flex-div">
             <img src="images/upload.png">
