@@ -3,7 +3,7 @@ let videoLateral = async()=>{
     let peticion = await fetch("../storage/Channel Search.json");
     let inf = await peticion.json();
     let perfi = await pet.json();
-    let seleccion = document.querySelector("#side-video");
+    let seleccion = document.querySelector("#side-vide");
     seleccion.insertAdjacentHTML("beforeend",/*html*/`
     ${inf.contents.map((value)=>/*html*/`
         <div id="side-video" class="side-video-list">
