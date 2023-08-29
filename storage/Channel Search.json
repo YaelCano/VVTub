@@ -1,1641 +1,1265 @@
 {
-    "contents": [
+  "contents": [
       {
-        "playlist": {
-          "author": {
-            "badges": [],
-            "canonicalBaseUrl": "/@creativecode787",
-            "channelId": "UC8fkwsjcI_MhralEX1g4OBw",
-            "title": "CreativeCode · Playlist"
-          },
-          "playlistId": "PL95tPn7-zQLEZo34OIRdTyKhWGpsRTICU",
-          "stats": {
-            "videos": 9
-          },
-          "thumbnails": [
-            {
-              "height": 270,
-              "url": "https://i.ytimg.com/vi/lFo3Yy8Ro7w/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCOusGmDaa8ObcSmk0ft-JdfBY5Lg",
-              "width": 480
-            }
-          ],
-          "title": "NetCore",
-          "updatedTime": null,
-          "updatedTimeText": null
-        },
-        "type": "playlist"
-      },
-      {
-        "type": "video",
-        "video": {
-          "author": {
-            "avatar": [
-              {
-                "height": 68,
-                "url": "https://yt3.googleusercontent.com/ytc/AOPolaRQMdTorx40VODGGitv_bCo4G_Dr6eFvmBuma3G=s68-c-k-c0x00ffffff-no-rj",
-                "width": 68
-              }
-            ],
-            "badges": [],
-            "canonicalBaseUrl": "/@creativecode787",
-            "channelId": "UC8fkwsjcI_MhralEX1g4OBw",
-            "title": "CreativeCode"
-          },
+      "type": "video",
+      "video": {
           "badges": [],
-          "descriptionSnippet": "Implementacion de unidades de trabajo",
-          "isLiveNow": false,
-          "lengthSeconds": 918,
-          "movingThumbnails": [
-            {
-              "height": 180,
-              "url": "https://i.ytimg.com/an_webp/vOTdcAjICw8/mqdefault_6s.webp?du=3000&sqp=CMnysqcG&rs=AOn4CLAs4AAr9jhWTOT0EXVioJJx71c6eg",
-              "width": 320
-            }
-          ],
-          "publishedTimeText": "1 month ago",
-          "stats": {
-            "views": 83
-          },
-          "thumbnails": [
-            {
-              "height": 94,
-              "url": "https://i.ytimg.com/vi/vOTdcAjICw8/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AHACIAC0AWKAgwIABABGEAgVihlMA8=&rs=AOn4CLBi1q0F7KVPmqguR4qFNGmebnBURg",
-              "width": 168
-            },
-            {
-              "height": 110,
-              "url": "https://i.ytimg.com/vi/vOTdcAjICw8/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AHACIAC0AWKAgwIABABGEAgVihlMA8=&rs=AOn4CLB_OZFVW5TkEE31hh7VBLZGi5NNxw",
-              "width": 196
-            },
-            {
-              "height": 138,
-              "url": "https://i.ytimg.com/vi/vOTdcAjICw8/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBwAiAAtAFigIMCAAQARhAIFYoZTAP&rs=AOn4CLC4i0VBbh9Y0BB--Ec1HFFg0Jnbcg",
-              "width": 246
-            },
-            {
-              "height": 188,
-              "url": "https://i.ytimg.com/vi/vOTdcAjICw8/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBwAiAAtAFigIMCAAQARhAIFYoZTAP&rs=AOn4CLB3WJ5215RNr3to0gHnpfabe6ecSw",
-              "width": 336
-            }
-          ],
-          "title": "WebApi NetCore Part14",
-          "videoId": "vOTdcAjICw8"
-        }
-      },
-      {
-        "type": "video",
-        "video": {
-          "author": {
-            "avatar": [
-              {
-                "height": 68,
-                "url": "https://yt3.googleusercontent.com/ytc/AOPolaRQMdTorx40VODGGitv_bCo4G_Dr6eFvmBuma3G=s68-c-k-c0x00ffffff-no-rj",
-                "width": 68
-              }
-            ],
-            "badges": [],
-            "canonicalBaseUrl": "/@creativecode787",
-            "channelId": "UC8fkwsjcI_MhralEX1g4OBw",
-            "title": "CreativeCode"
-          },
-          "badges": [],
-          "descriptionSnippet": "Url Proyecto\nhttps://campuslands-my.sharepoint.com/:u:/p/andres_lizarazo/EYqmlBaA5IxNqwUzkgZ22QoB7HUZW0Kc_BkghRSWY86Tlw?e=reltIY",
-          "isLiveNow": false,
-          "lengthSeconds": 1166,
-          "movingThumbnails": [
-            {
-              "height": 180,
-              "url": "https://i.ytimg.com/an_webp/WdkfJq8yo4A/mqdefault_6s.webp?du=3000&sqp=CKDssqcG&rs=AOn4CLDsfrBzX5LoeOxnJ1kCahJqnyMCfQ",
-              "width": 320
-            }
-          ],
-          "publishedTimeText": "4 months ago",
-          "stats": {
-            "views": 97
-          },
-          "thumbnails": [
-            {
-              "height": 94,
-              "url": "https://i.ytimg.com/vi/WdkfJq8yo4A/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGF0gWyhlMA8=&rs=AOn4CLBCSNII2PoT4SB0lQkoeH1l4N1FnA",
-              "width": 168
-            },
-            {
-              "height": 110,
-              "url": "https://i.ytimg.com/vi/WdkfJq8yo4A/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGF0gWyhlMA8=&rs=AOn4CLDVkOSRbKbOY0bm_gZ7EZOHJ_dblg",
-              "width": 196
-            },
-            {
-              "height": 138,
-              "url": "https://i.ytimg.com/vi/WdkfJq8yo4A/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhdIFsoZTAP&rs=AOn4CLCiJuJ7gy-HjBH7PohnTfP193-7Rw",
-              "width": 246
-            },
-            {
-              "height": 188,
-              "url": "https://i.ytimg.com/vi/WdkfJq8yo4A/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhdIFsoZTAP&rs=AOn4CLAqClbjOh0cCzO7sXhWCnCDxqY0cQ",
-              "width": 336
-            }
-          ],
-          "title": "webComponentes con ShadowDom",
-          "videoId": "WdkfJq8yo4A"
-        }
-      },
-      {
-        "type": "video",
-        "video": {
-          "author": {
-            "avatar": [
-              {
-                "height": 68,
-                "url": "https://yt3.googleusercontent.com/ytc/AOPolaRQMdTorx40VODGGitv_bCo4G_Dr6eFvmBuma3G=s68-c-k-c0x00ffffff-no-rj",
-                "width": 68
-              }
-            ],
-            "badges": [],
-            "canonicalBaseUrl": "/@creativecode787",
-            "channelId": "UC8fkwsjcI_MhralEX1g4OBw",
-            "title": "CreativeCode"
-          },
-          "badges": [],
-          "descriptionSnippet": null,
-          "isLiveNow": false,
-          "lengthSeconds": 841,
-          "movingThumbnails": [
-            {
-              "height": 180,
-              "url": "https://i.ytimg.com/an_webp/kMdAGzjYzQg/mqdefault_6s.webp?du=3000&sqp=CPiJs6cG&rs=AOn4CLApAgWrhgcXl7toAtk0za41uQX3SQ",
-              "width": 320
-            }
-          ],
-          "publishedTimeText": "1 month ago",
-          "stats": {
-            "views": 119
-          },
-          "thumbnails": [
-            {
-              "height": 94,
-              "url": "https://i.ytimg.com/vi/kMdAGzjYzQg/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGDwgXihyMA8=&rs=AOn4CLCC_Traf0NcDqW_pR9YBJnzQZ5pkQ",
-              "width": 168
-            },
-            {
-              "height": 110,
-              "url": "https://i.ytimg.com/vi/kMdAGzjYzQg/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGDwgXihyMA8=&rs=AOn4CLAKurfl3iCtqsqSvUo62ZqySbfuPQ",
-              "width": 196
-            },
-            {
-              "height": 138,
-              "url": "https://i.ytimg.com/vi/kMdAGzjYzQg/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg8IF4ocjAP&rs=AOn4CLDXLIPqUSOIv_6YqKMSbGZ0q_z0Sw",
-              "width": 246
-            },
-            {
-              "height": 188,
-              "url": "https://i.ytimg.com/vi/kMdAGzjYzQg/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg8IF4ocjAP&rs=AOn4CLB9lyY2dfP0WXRRus0wvnCphlWPmw",
-              "width": 336
-            }
-          ],
-          "title": "WebApi NetCore Part09",
-          "videoId": "kMdAGzjYzQg"
-        }
-      },
-      {
-        "type": "video",
-        "video": {
-          "author": {
-            "avatar": [
-              {
-                "height": 68,
-                "url": "https://yt3.googleusercontent.com/ytc/AOPolaRQMdTorx40VODGGitv_bCo4G_Dr6eFvmBuma3G=s68-c-k-c0x00ffffff-no-rj",
-                "width": 68
-              }
-            ],
-            "badges": [],
-            "canonicalBaseUrl": "/@creativecode787",
-            "channelId": "UC8fkwsjcI_MhralEX1g4OBw",
-            "title": "CreativeCode"
-          },
-          "badges": [],
-          "descriptionSnippet": null,
-          "isLiveNow": false,
-          "lengthSeconds": 368,
-          "movingThumbnails": [
-            {
-              "height": 180,
-              "url": "https://i.ytimg.com/an_webp/R8dPZ0HTQeQ/mqdefault_6s.webp?du=3000&sqp=CKD-sqcG&rs=AOn4CLByFRxVfy8EF1wIsKCNUJBhDhPkTA",
-              "width": 320
-            }
-          ],
-          "publishedTimeText": "5 months ago",
-          "stats": {
-            "views": 57
-          },
-          "thumbnails": [
-            {
-              "height": 94,
-              "url": "https://i.ytimg.com/vi/R8dPZ0HTQeQ/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGDsgVShlMA8=&rs=AOn4CLDisA1fx6ftfEkOCaqGp3oITO9RyA",
-              "width": 168
-            },
-            {
-              "height": 110,
-              "url": "https://i.ytimg.com/vi/R8dPZ0HTQeQ/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGDsgVShlMA8=&rs=AOn4CLCZ5OLK07uNfKdjnd4G5ZmszkBvNw",
-              "width": 196
-            },
-            {
-              "height": 138,
-              "url": "https://i.ytimg.com/vi/R8dPZ0HTQeQ/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg7IFUoZTAP&rs=AOn4CLAS63orqNORhL8Rh_O8syyikLWVLQ",
-              "width": 246
-            },
-            {
-              "height": 188,
-              "url": "https://i.ytimg.com/vi/R8dPZ0HTQeQ/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg7IFUoZTAP&rs=AOn4CLCxEYea_7WA8KX-CbZFgoRA0GPy8w",
-              "width": 336
-            }
-          ],
-          "title": "Proyecto NBA Part 04",
-          "videoId": "R8dPZ0HTQeQ"
-        }
-      },
-      {
-        "type": "video",
-        "video": {
-          "author": {
-            "avatar": [
-              {
-                "height": 68,
-                "url": "https://yt3.googleusercontent.com/ytc/AOPolaRQMdTorx40VODGGitv_bCo4G_Dr6eFvmBuma3G=s68-c-k-c0x00ffffff-no-rj",
-                "width": 68
-              }
-            ],
-            "badges": [],
-            "canonicalBaseUrl": "/@creativecode787",
-            "channelId": "UC8fkwsjcI_MhralEX1g4OBw",
-            "title": "CreativeCode"
-          },
-          "badges": [],
-          "descriptionSnippet": "Listando registros en una tabla",
-          "isLiveNow": false,
-          "lengthSeconds": 559,
-          "movingThumbnails": null,
-          "publishedTimeText": "3 months ago",
-          "stats": {
-            "views": 99
-          },
-          "thumbnails": [
-            {
-              "height": 94,
-              "url": "https://i.ytimg.com/vi/MB6FDfb8MBk/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGDggXChyMA8=&rs=AOn4CLApMk2W8BsKEmHAoBDbQ4Gj5O4Ysg",
-              "width": 168
-            },
-            {
-              "height": 110,
-              "url": "https://i.ytimg.com/vi/MB6FDfb8MBk/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGDggXChyMA8=&rs=AOn4CLAzVyABfgdvePJ7ErYvGqRTp3ejPQ",
-              "width": 196
-            },
-            {
-              "height": 138,
-              "url": "https://i.ytimg.com/vi/MB6FDfb8MBk/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg4IFwocjAP&rs=AOn4CLC0hy2WiTyYegCrJMOSX81VUejPsg",
-              "width": 246
-            },
-            {
-              "height": 188,
-              "url": "https://i.ytimg.com/vi/MB6FDfb8MBk/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg4IFwocjAP&rs=AOn4CLAQq85CD3Rl3qp732irKAma3pSyuw",
-              "width": 336
-            }
-          ],
-          "title": "Proyecto Farmacia Part 4",
-          "videoId": "MB6FDfb8MBk"
-        }
-      },
-      {
-        "type": "video",
-        "video": {
-          "author": {
-            "avatar": [
-              {
-                "height": 68,
-                "url": "https://yt3.googleusercontent.com/ytc/AOPolaRQMdTorx40VODGGitv_bCo4G_Dr6eFvmBuma3G=s68-c-k-c0x00ffffff-no-rj",
-                "width": 68
-              }
-            ],
-            "badges": [],
-            "canonicalBaseUrl": "/@creativecode787",
-            "channelId": "UC8fkwsjcI_MhralEX1g4OBw",
-            "title": "CreativeCode"
-          },
-          "badges": [],
-          "descriptionSnippet": "Arquitectura Aplicacion/Persistencia/Dominio/Aplicacion",
           "isLiveNow": false,
           "lengthSeconds": 4136,
           "movingThumbnails": [
-            {
+          {
               "height": 180,
               "url": "https://i.ytimg.com/an_webp/izvodnnCvt0/mqdefault_6s.webp?du=3000&sqp=CLWOs6cG&rs=AOn4CLATNGv9Ldw_D1aB09x-3-kex4tE-w",
               "width": 320
-            }
+          }
           ],
           "publishedTimeText": "4 weeks ago",
           "stats": {
-            "views": 89
+          "views": 89
           },
           "thumbnails": [
-            {
+          {
               "height": 94,
               "url": "https://i.ytimg.com/vi/izvodnnCvt0/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCcHFEFkBC_SiSvKUkmkvjKnCYzOA",
               "width": 168
-            },
-            {
+          },
+          {
               "height": 110,
               "url": "https://i.ytimg.com/vi/izvodnnCvt0/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCQaM6nZpCvuIoDPMhrGTyhA02X0A",
               "width": 196
-            },
-            {
+          },
+          {
               "height": 138,
               "url": "https://i.ytimg.com/vi/izvodnnCvt0/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLAsm1NkTZfKeF2HnmzCVPTdnSmqeg",
               "width": 246
-            },
-            {
+          },
+          {
               "height": 188,
               "url": "https://i.ytimg.com/vi/izvodnnCvt0/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLAIRAwsqBGiL2SiwdKlFQYmuTFqag",
               "width": 336
-            }
+          }
           ],
           "title": "WebApi NetCore Part22",
           "videoId": "izvodnnCvt0"
-        }
+      }
       },
       {
-        "type": "video",
-        "video": {
-          "author": {
-            "avatar": [
-              {
-                "height": 68,
-                "url": "https://yt3.googleusercontent.com/ytc/AOPolaRQMdTorx40VODGGitv_bCo4G_Dr6eFvmBuma3G=s68-c-k-c0x00ffffff-no-rj",
-                "width": 68
-              }
-            ],
-            "badges": [],
-            "canonicalBaseUrl": "/@creativecode787",
-            "channelId": "UC8fkwsjcI_MhralEX1g4OBw",
-            "title": "CreativeCode"
-          },
+      "type": "video",
+      "video": {
           "badges": [],
-          "descriptionSnippet": null,
+          "isLiveNow": false,
+          "lengthSeconds": 200,
+          "movingThumbnails": [
+          {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/P7nwKpy_C8E/mqdefault_6s.webp?du=3000&sqp=CMios6cG&rs=AOn4CLAY2C__npqG0aWu51LGcJGv7o96Xg",
+              "width": 320
+          }
+          ],
+          "publishedTimeText": "1 month ago",
+          "stats": {
+          "views": 24
+          },
+          "thumbnails": [
+          {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/P7nwKpy_C8E/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGFkgXShlMA8=&rs=AOn4CLC5ESGtxsBpWWz1GiC2gt82BG1rzw",
+              "width": 168
+          },
+          {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/P7nwKpy_C8E/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGFkgXShlMA8=&rs=AOn4CLDucO3-5J5LTz-tfRvtv2ThE7jaMQ",
+              "width": 196
+          },
+          {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/P7nwKpy_C8E/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhZIF0oZTAP&rs=AOn4CLAbyTskYRy2g86eYVi2c5FkFFH2lQ",
+              "width": 246
+          },
+          {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/P7nwKpy_C8E/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhZIF0oZTAP&rs=AOn4CLBuMG2NIsxV53Z_PIPNjtLACqsSSw",
+              "width": 336
+          }
+          ],
+          "title": "WebApi NetCore Part21 Continue",
+          "videoId": "P7nwKpy_C8E"
+      }
+      },
+      {
+      "type": "video",
+      "video": {
+          "badges": [],
+          "isLiveNow": false,
+          "lengthSeconds": 2235,
+          "movingThumbnails": [
+          {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/E6WrPNFH7Nw/mqdefault_6s.webp?du=3000&sqp=CMiPs6cG&rs=AOn4CLCg87pwNh61RmY91Hq3aS020ypebg",
+              "width": 320
+          }
+          ],
+          "publishedTimeText": "1 month ago",
+          "stats": {
+          "views": 19
+          },
+          "thumbnails": [
+          {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/E6WrPNFH7Nw/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGEwgXChlMA8=&rs=AOn4CLD2JERd6oJWbfmcF8Utf9V3znRWHg",
+              "width": 168
+          },
+          {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/E6WrPNFH7Nw/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGEwgXChlMA8=&rs=AOn4CLDtqP9q0jipKteEaybO8tBMSiAQYA",
+              "width": 196
+          },
+          {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/E6WrPNFH7Nw/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhMIFwoZTAP&rs=AOn4CLAAIFQepEfWARwCxikorEOVKiBf_w",
+              "width": 246
+          },
+          {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/E6WrPNFH7Nw/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhMIFwoZTAP&rs=AOn4CLBjOfF61jldsTVJp7WhR5CAu0YUgA",
+              "width": 336
+          }
+          ],
+          "title": "WebApiNetCore Part21",
+          "videoId": "E6WrPNFH7Nw"
+      }
+      },
+      {
+      "type": "video",
+      "video": {
+          "badges": [],
+          "isLiveNow": false,
+          "lengthSeconds": 3430,
+          "movingThumbnails": [
+          {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/rQsgjvsnqbQ/mqdefault_6s.webp?du=3000&sqp=CNyfs6cG&rs=AOn4CLBzeF_O54yFxB8adQoi-USCAcjGvg",
+              "width": 320
+          }
+          ],
+          "publishedTimeText": "1 month ago",
+          "stats": {
+          "views": 42
+          },
+          "thumbnails": [
+          {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/rQsgjvsnqbQ/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGF0gXShdMA8=&rs=AOn4CLA8YURIAZLtPf7822lO05cNqqNSQA",
+              "width": 168
+          },
+          {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/rQsgjvsnqbQ/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGF0gXShdMA8=&rs=AOn4CLDxFDXd_3knzb8b2WgQTrsHKodSjw",
+              "width": 196
+          },
+          {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/rQsgjvsnqbQ/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhdIF0oXTAP&rs=AOn4CLBwYF0gsVxt07qC3ZpgkGz_XiuF5w",
+              "width": 246
+          },
+          {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/rQsgjvsnqbQ/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhdIF0oXTAP&rs=AOn4CLCeIQ8dVgFzg2wnAV3W6PMU7RUchw",
+              "width": 336
+          }
+          ],
+          "title": "Clase 24072023",
+          "videoId": "rQsgjvsnqbQ"
+      }
+      },
+      {
+      "type": "video",
+      "video": {
+          "badges": [],
+          "isLiveNow": false,
+          "lengthSeconds": 1473,
+          "movingThumbnails": [
+          {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/znYqquFE1To/mqdefault_6s.webp?du=3000&sqp=CPKxs6cG&rs=AOn4CLAzJN-omtFOxZHllbVWL5Xl2Q8_Pg",
+              "width": 320
+          }
+          ],
+          "publishedTimeText": "1 month ago",
+          "stats": {
+          "views": 41
+          },
+          "thumbnails": [
+          {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/znYqquFE1To/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgVihKMA8=&rs=AOn4CLBMVwCJ3kEXieT1gQdEvPddyjes3Q",
+              "width": 168
+          },
+          {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/znYqquFE1To/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgVihKMA8=&rs=AOn4CLBmGxJHQg5W_CLxRfgtk3yS_I0qcQ",
+              "width": 196
+          },
+          {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/znYqquFE1To/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFYoSjAP&rs=AOn4CLBhy0y09tiopfgBUa84egdib_0IAg",
+              "width": 246
+          },
+          {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/znYqquFE1To/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFYoSjAP&rs=AOn4CLDq7g7sNXtSpjcvxm_m87q-L5XJQA",
+              "width": 336
+          }
+          ],
+          "title": "WebApi NetCore Part19",
+          "videoId": "znYqquFE1To"
+      }
+      },
+      {
+      "type": "video",
+      "video": {
+          "badges": [],
+          "isLiveNow": false,
+          "lengthSeconds": 715,
+          "movingThumbnails": [
+          {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/qQCFGKhLk9E/mqdefault_6s.webp?du=3000&sqp=CMess6cG&rs=AOn4CLAps7v51RRnGJU6Qe0sru6kIiie4A",
+              "width": 320
+          }
+          ],
+          "publishedTimeText": "1 month ago",
+          "stats": {
+          "views": 43
+          },
+          "thumbnails": [
+          {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/qQCFGKhLk9E/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGF8gXyhfMA8=&rs=AOn4CLA_ZOdvxnV5ui3qdycHLud1J60EUg",
+              "width": 168
+          },
+          {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/qQCFGKhLk9E/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGF8gXyhfMA8=&rs=AOn4CLDi0RchQBB6fyGXdLbm19FXGOqdqg",
+              "width": 196
+          },
+          {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/qQCFGKhLk9E/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhfIF8oXzAP&rs=AOn4CLCBNh9g1IQ54UJHT0UPqr449XcNRA",
+              "width": 246
+          },
+          {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/qQCFGKhLk9E/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhfIF8oXzAP&rs=AOn4CLBFf4F6hvU3IN9bepyOKlaIkFITCQ",
+              "width": 336
+          }
+          ],
+          "title": "WebApi NetCore Part18",
+          "videoId": "qQCFGKhLk9E"
+      }
+      },
+      {
+      "type": "video",
+      "video": {
+          "badges": [],
+          "isLiveNow": false,
+          "lengthSeconds": 2118,
+          "movingThumbnails": [
+          {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/Kgn6HTq3uws/mqdefault_6s.webp?du=3000&sqp=CL_7sqcG&rs=AOn4CLC674C_qXUVPST_YomdQw3rPQ7noQ",
+              "width": 320
+          }
+          ],
+          "publishedTimeText": "1 month ago",
+          "stats": {
+          "views": 52
+          },
+          "thumbnails": [
+          {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/Kgn6HTq3uws/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAk_NlAF7cIUk_HcRmmod3U92skIw",
+              "width": 168
+          },
+          {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/Kgn6HTq3uws/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLDuda2mI2eXOqdSnUGfdzDQ2IWlUw",
+              "width": 196
+          },
+          {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/Kgn6HTq3uws/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLC53vxWGDINysOqO7CJ5BSm1a8dtw",
+              "width": 246
+          },
+          {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/Kgn6HTq3uws/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLDj3PpMQSQUgfNg-_0eotm2mRkCWA",
+              "width": 336
+          }
+          ],
+          "title": "WebApi NetCore Part17",
+          "videoId": "Kgn6HTq3uws"
+      }
+      },
+      {
+      "type": "video",
+      "video": {
+          "badges": [],
+          "isLiveNow": false,
+          "lengthSeconds": 619,
+          "movingThumbnails": [
+          {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/onrQYHjX2y4/mqdefault_6s.webp?du=3000&sqp=CKCUs6cG&rs=AOn4CLAE-8rrT_HgBzGtG8Zw-EWVAJiWQQ",
+              "width": 320
+          }
+          ],
+          "publishedTimeText": "1 month ago",
+          "stats": {
+          "views": 46
+          },
+          "thumbnails": [
+          {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/onrQYHjX2y4/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGDkgXShyMA8=&rs=AOn4CLA0mnPwUyeWFwFXcAIKK5psx0wtxw",
+              "width": 168
+          },
+          {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/onrQYHjX2y4/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGDkgXShyMA8=&rs=AOn4CLC-zmj96Lx89Ql0A66s60UXlFzZfA",
+              "width": 196
+          },
+          {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/onrQYHjX2y4/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg5IF0ocjAP&rs=AOn4CLDDSD0s53RyV2uMMvl8m5DtD7WxPQ",
+              "width": 246
+          },
+          {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/onrQYHjX2y4/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg5IF0ocjAP&rs=AOn4CLDDSSMeWrWmXsKYsXnQi3zEWWjFZQ",
+              "width": 336
+          }
+          ],
+          "title": "WebApi NetCore Part16",
+          "videoId": "onrQYHjX2y4"
+      }
+      },
+      {
+      "type": "video",
+      "video": {
+          "badges": [],
+          "isLiveNow": false,
+          "lengthSeconds": 604,
+          "movingThumbnails": [
+          {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/VZ3WOdOob54/mqdefault_6s.webp?du=3000&sqp=CNSis6cG&rs=AOn4CLAcMWSxTIofjuxt9Dgho9U44hPEZQ",
+              "width": 320
+          }
+          ],
+          "publishedTimeText": "1 month ago",
+          "stats": {
+          "views": 51
+          },
+          "thumbnails": [
+          {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/VZ3WOdOob54/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AHkCIAC0AWKAgwIABABGGkgaShpMA8=&rs=AOn4CLAenQ4ZXrJF_UShIt6n7-BzqU3uqA",
+              "width": 168
+          },
+          {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/VZ3WOdOob54/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AHkCIAC0AWKAgwIABABGGkgaShpMA8=&rs=AOn4CLCsMNZDCjTHpRlT4uuamrjPJT5d-Q",
+              "width": 196
+          },
+          {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/VZ3WOdOob54/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB5AiAAtAFigIMCAAQARhpIGkoaTAP&rs=AOn4CLBsDgiuhZEBEHZFRNsI8vBoE2eu8g",
+              "width": 246
+          },
+          {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/VZ3WOdOob54/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB5AiAAtAFigIMCAAQARhpIGkoaTAP&rs=AOn4CLATslzTHqX9-cVI9mk2SV5tTA_MbQ",
+              "width": 336
+          }
+          ],
+          "title": "WebApi NetCore Part15",
+          "videoId": "VZ3WOdOob54"
+      }
+      },
+      {
+      "type": "video",
+      "video": {
+          "badges": [],
+          "isLiveNow": false,
+          "lengthSeconds": 918,
+          "movingThumbnails": [
+          {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/vOTdcAjICw8/mqdefault_6s.webp?du=3000&sqp=CMnysqcG&rs=AOn4CLAs4AAr9jhWTOT0EXVioJJx71c6eg",
+              "width": 320
+          }
+          ],
+          "publishedTimeText": "1 month ago",
+          "stats": {
+          "views": 83
+          },
+          "thumbnails": [
+          {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/vOTdcAjICw8/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AHACIAC0AWKAgwIABABGEAgVihlMA8=&rs=AOn4CLBi1q0F7KVPmqguR4qFNGmebnBURg",
+              "width": 168
+          },
+          {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/vOTdcAjICw8/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AHACIAC0AWKAgwIABABGEAgVihlMA8=&rs=AOn4CLB_OZFVW5TkEE31hh7VBLZGi5NNxw",
+              "width": 196
+          },
+          {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/vOTdcAjICw8/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBwAiAAtAFigIMCAAQARhAIFYoZTAP&rs=AOn4CLC4i0VBbh9Y0BB--Ec1HFFg0Jnbcg",
+              "width": 246
+          },
+          {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/vOTdcAjICw8/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBwAiAAtAFigIMCAAQARhAIFYoZTAP&rs=AOn4CLB3WJ5215RNr3to0gHnpfabe6ecSw",
+              "width": 336
+          }
+          ],
+          "title": "WebApi NetCore Part14",
+          "videoId": "vOTdcAjICw8"
+      }
+      },
+      {
+      "type": "video",
+      "video": {
+          "badges": [],
+          "isLiveNow": false,
+          "lengthSeconds": 1733,
+          "movingThumbnails": [
+          {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/gp-xeqYHCqo/mqdefault_6s.webp?du=3000&sqp=CNids6cG&rs=AOn4CLAswJna5iM7PnAfXoCkVQWN5GJLBw",
+              "width": 320
+          }
+          ],
+          "publishedTimeText": "1 month ago",
+          "stats": {
+          "views": 111
+          },
+          "thumbnails": [
+          {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/gp-xeqYHCqo/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AHACIAC0AWKAgwIABABGEAgVihlMA8=&rs=AOn4CLBDtrn6cMiuDpWM7VLjXHZjk2CpUw",
+              "width": 168
+          },
+          {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/gp-xeqYHCqo/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AHACIAC0AWKAgwIABABGEAgVihlMA8=&rs=AOn4CLBZfO6Lrd9Qeqdv3yv6VtjD14rT0Q",
+              "width": 196
+          },
+          {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/gp-xeqYHCqo/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBwAiAAtAFigIMCAAQARhAIFYoZTAP&rs=AOn4CLCg6sjRt_Rd2Ea31isB8KYjJw6MaA",
+              "width": 246
+          },
+          {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/gp-xeqYHCqo/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBwAiAAtAFigIMCAAQARhAIFYoZTAP&rs=AOn4CLCnhc9Y0qdlFOo-LjZj3r0kMQLqYg",
+              "width": 336
+          }
+          ],
+          "title": "WebApi NetCore Part13",
+          "videoId": "gp-xeqYHCqo"
+      }
+      },
+      {
+      "type": "video",
+      "video": {
+          "badges": [],
+          "isLiveNow": false,
+          "lengthSeconds": 129,
+          "movingThumbnails": [
+          {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/cIPzhbetRNE/mqdefault_6s.webp?du=3000&sqp=CKyLs6cG&rs=AOn4CLCk9bZE-uNyfBhmPdInSVxwHWAIug",
+              "width": 320
+          }
+          ],
+          "publishedTimeText": "1 month ago",
+          "stats": {
+          "views": 63
+          },
+          "thumbnails": [
+          {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/cIPzhbetRNE/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AGKCYAC0AWKAgwIABABGEEgWChlMA8=&rs=AOn4CLC9qYwgaU-qT5aaBvySCIxQPQQnKw",
+              "width": 168
+          },
+          {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/cIPzhbetRNE/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AGKCYAC0AWKAgwIABABGEEgWChlMA8=&rs=AOn4CLC5gClJs7CxqmUuCNmWIcU9CaifNA",
+              "width": 196
+          },
+          {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/cIPzhbetRNE/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBigmAAtAFigIMCAAQARhBIFgoZTAP&rs=AOn4CLBCP97svYMQ2ZlsSWo8FWKEd9qHvA",
+              "width": 246
+          },
+          {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/cIPzhbetRNE/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBigmAAtAFigIMCAAQARhBIFgoZTAP&rs=AOn4CLB2lkCwwPJ4p04ZpfT_OVPerjBmVQ",
+              "width": 336
+          }
+          ],
+          "title": "WebApi NetCore Part12",
+          "videoId": "cIPzhbetRNE"
+      }
+      },
+      {
+      "type": "video",
+      "video": {
+          "badges": [],
+          "isLiveNow": false,
+          "lengthSeconds": 1806,
+          "movingThumbnails": [
+          {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/5-YE12fHmJw/mqdefault_6s.webp?du=3000&sqp=CJyDs6cG&rs=AOn4CLDvRPOpxckwNvTgrTMCiwd_A2XAXA",
+              "width": 320
+          }
+          ],
+          "publishedTimeText": "1 month ago",
+          "stats": {
+          "views": 69
+          },
+          "thumbnails": [
+          {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/5-YE12fHmJw/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AGKCYAC0AWKAgwIABABGD4gWChlMA8=&rs=AOn4CLA31-l9fkb-vSs6v_0FLc0JokkEuA",
+              "width": 168
+          },
+          {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/5-YE12fHmJw/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AGKCYAC0AWKAgwIABABGD4gWChlMA8=&rs=AOn4CLBhdXUGjkiXdSn56Ho3nL3IuZytQQ",
+              "width": 196
+          },
+          {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/5-YE12fHmJw/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBigmAAtAFigIMCAAQARg-IFgoZTAP&rs=AOn4CLDJphn7_-WvONNn6axHOyGCMqK3vw",
+              "width": 246
+          },
+          {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/5-YE12fHmJw/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBigmAAtAFigIMCAAQARg-IFgoZTAP&rs=AOn4CLBZLKn_sRc9z5mjNfdxT7ipuYsbIQ",
+              "width": 336
+          }
+          ],
+          "title": "WebApi NetCore Part11",
+          "videoId": "5-YE12fHmJw"
+      }
+      },
+      {
+      "type": "video",
+      "video": {
+          "badges": [],
+          "isLiveNow": false,
+          "lengthSeconds": 1552,
+          "movingThumbnails": [
+          {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/-ZDgEaWx4dA/mqdefault_6s.webp?du=3000&sqp=CICqs6cG&rs=AOn4CLDwhty4sMs-634AWa13yuJqYhTPnA",
+              "width": 320
+          }
+          ],
+          "publishedTimeText": "1 month ago",
+          "stats": {
+          "views": 43
+          },
+          "thumbnails": [
+          {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/-ZDgEaWx4dA/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGEcgWShlMA8=&rs=AOn4CLChP0AShGOpmpb9Wma5PiR3V5YGjw",
+              "width": 168
+          },
+          {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/-ZDgEaWx4dA/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGEcgWShlMA8=&rs=AOn4CLBSy4IpOmuj8p15S04tURKvb5B9qw",
+              "width": 196
+          },
+          {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/-ZDgEaWx4dA/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhHIFkoZTAP&rs=AOn4CLAi_6SgX4Z-Xx84f6pwgjNHQ7bDVg",
+              "width": 246
+          },
+          {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/-ZDgEaWx4dA/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhHIFkoZTAP&rs=AOn4CLCFZKceIx4L0doRUbGizgxx0oXqKw",
+              "width": 336
+          }
+          ],
+          "title": "Repaso Archivos",
+          "videoId": "-ZDgEaWx4dA"
+      }
+      },
+      {
+      "type": "video",
+      "video": {
+          "badges": [],
+          "isLiveNow": false,
+          "lengthSeconds": 536,
+          "movingThumbnails": [
+          {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/yaI-lQhPv8s/mqdefault_6s.webp?du=3000&sqp=CK6Ys6cG&rs=AOn4CLD16ZeoqOdAiu50H6qW3spJ3UgoAw",
+              "width": 320
+          }
+          ],
+          "publishedTimeText": "1 month ago",
+          "stats": {
+          "views": 74
+          },
+          "thumbnails": [
+          {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/yaI-lQhPv8s/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgXChOMA8=&rs=AOn4CLBauMQ9Y5h5QQKSBiqhcoTnmJg83Q",
+              "width": 168
+          },
+          {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/yaI-lQhPv8s/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgXChOMA8=&rs=AOn4CLB-f_uln4fDR9TmvweG9IuIhebHZg",
+              "width": 196
+          },
+          {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/yaI-lQhPv8s/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFwoTjAP&rs=AOn4CLC4MPkb8q0pA-ItvAy8UI9nXZ14wQ",
+              "width": 246
+          },
+          {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/yaI-lQhPv8s/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFwoTjAP&rs=AOn4CLBD2hoUtRXFFJ2VKjiNWTD1YKEj7Q",
+              "width": 336
+          }
+          ],
+          "title": "WebApi NetCore Part10",
+          "videoId": "yaI-lQhPv8s"
+      }
+      },
+      {
+      "type": "video",
+      "video": {
+          "badges": [],
+          "isLiveNow": false,
+          "lengthSeconds": 841,
+          "movingThumbnails": [
+          {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/kMdAGzjYzQg/mqdefault_6s.webp?du=3000&sqp=CPiJs6cG&rs=AOn4CLApAgWrhgcXl7toAtk0za41uQX3SQ",
+              "width": 320
+          }
+          ],
+          "publishedTimeText": "1 month ago",
+          "stats": {
+          "views": 119
+          },
+          "thumbnails": [
+          {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/kMdAGzjYzQg/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGDwgXihyMA8=&rs=AOn4CLCC_Traf0NcDqW_pR9YBJnzQZ5pkQ",
+              "width": 168
+          },
+          {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/kMdAGzjYzQg/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGDwgXihyMA8=&rs=AOn4CLAKurfl3iCtqsqSvUo62ZqySbfuPQ",
+              "width": 196
+          },
+          {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/kMdAGzjYzQg/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg8IF4ocjAP&rs=AOn4CLDXLIPqUSOIv_6YqKMSbGZ0q_z0Sw",
+              "width": 246
+          },
+          {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/kMdAGzjYzQg/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg8IF4ocjAP&rs=AOn4CLB9lyY2dfP0WXRRus0wvnCphlWPmw",
+              "width": 336
+          }
+          ],
+          "title": "WebApi NetCore Part09",
+          "videoId": "kMdAGzjYzQg"
+      }
+      },
+      {
+      "type": "video",
+      "video": {
+          "badges": [],
+          "isLiveNow": false,
+          "lengthSeconds": 324,
+          "movingThumbnails": [
+          {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/Tt3nGr-oCSM/mqdefault_6s.webp?du=3000&sqp=CL-ts6cG&rs=AOn4CLC5tlNJR74N5WPtFMRlER1yusSUGA",
+              "width": 320
+          }
+          ],
+          "publishedTimeText": "1 month ago",
+          "stats": {
+          "views": 64
+          },
+          "thumbnails": [
+          {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/Tt3nGr-oCSM/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGDwgXShyMA8=&rs=AOn4CLDzMtGrKnUSXOEl63f3WSxDn5bYiA",
+              "width": 168
+          },
+          {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/Tt3nGr-oCSM/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGDwgXShyMA8=&rs=AOn4CLBfPurhIXgBi2Qo-IzGaTzBLMFJUQ",
+              "width": 196
+          },
+          {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/Tt3nGr-oCSM/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg8IF0ocjAP&rs=AOn4CLD_no06eeRgbZdRY0LsLUi1d4cnhQ",
+              "width": 246
+          },
+          {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/Tt3nGr-oCSM/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg8IF0ocjAP&rs=AOn4CLAEunqWStfIbXf1I9NGaRna2nFzLQ",
+              "width": 336
+          }
+          ],
+          "title": "WebApi NetCore Part08",
+          "videoId": "Tt3nGr-oCSM"
+      }
+      },
+      {
+      "type": "video",
+      "video": {
+          "badges": [],
+          "isLiveNow": false,
+          "lengthSeconds": 537,
+          "movingThumbnails": null,
+          "publishedTimeText": "1 month ago",
+          "stats": {
+          "views": 106
+          },
+          "thumbnails": [
+          {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/B5CBJesU_xg/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGE8gZShkMA8=&rs=AOn4CLCMnRfJjCZh1ZQFJ1FqQkqhToo4IA",
+              "width": 168
+          },
+          {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/B5CBJesU_xg/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGE8gZShkMA8=&rs=AOn4CLCc3lseutVgA5T7KydHR349c6a8LQ",
+              "width": 196
+          },
+          {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/B5CBJesU_xg/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhPIGUoZDAP&rs=AOn4CLBO0rVPwBaLdw4N_vH09ehQ9niTWA",
+              "width": 246
+          },
+          {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/B5CBJesU_xg/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhPIGUoZDAP&rs=AOn4CLBG01rA2aQLRQ5vr8viDWkRs3iSsw",
+              "width": 336
+          }
+          ],
+          "title": "WebApi NetCore Part07",
+          "videoId": "B5CBJesU_xg"
+      }
+      },
+      {
+      "type": "video",
+      "video": {
+          "badges": [],
+          "isLiveNow": false,
+          "lengthSeconds": 2778,
+          "movingThumbnails": [
+          {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/u3ycnpXyUrU/mqdefault_6s.webp?du=3000&sqp=CNSts6cG&rs=AOn4CLDVSrBCXy0LyMouA55hes4Gg-YV5A",
+              "width": 320
+          }
+          ],
+          "publishedTimeText": "1 month ago",
+          "stats": {
+          "views": 69
+          },
+          "thumbnails": [
+          {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/u3ycnpXyUrU/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGEwgXChlMA8=&rs=AOn4CLAGcmeUKGKxXv9WMa9Uq1vXYwHntQ",
+              "width": 168
+          },
+          {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/u3ycnpXyUrU/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGEwgXChlMA8=&rs=AOn4CLCYITAtItCyx6A2ubVq7B4I85laPg",
+              "width": 196
+          },
+          {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/u3ycnpXyUrU/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhMIFwoZTAP&rs=AOn4CLActyPIkn9g4ObleSibAxyX8ApFzw",
+              "width": 246
+          },
+          {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/u3ycnpXyUrU/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhMIFwoZTAP&rs=AOn4CLBaQZtiLrJSjTOv-CdJGSazYjzkvw",
+              "width": 336
+          }
+          ],
+          "title": "Ferreteria App Part03",
+          "videoId": "u3ycnpXyUrU"
+      }
+      },
+      {
+      "type": "video",
+      "video": {
+          "badges": [],
+          "isLiveNow": false,
+          "lengthSeconds": 740,
+          "movingThumbnails": [
+          {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/GpM75ODizek/mqdefault_6s.webp?du=3000&sqp=CL6ms6cG&rs=AOn4CLAZIWwSOqo4dgfeGPEK-aBXo6Rm2A",
+              "width": 320
+          }
+          ],
+          "publishedTimeText": "1 month ago",
+          "stats": {
+          "views": 52
+          },
+          "thumbnails": [
+          {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/GpM75ODizek/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AHUBoAC4AOKAgwIABABGGUgWChPMA8=&rs=AOn4CLAoVpJZ6zu2_9mSIvovhIem5VLmQA",
+              "width": 168
+          },
+          {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/GpM75ODizek/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AHUBoAC4AOKAgwIABABGGUgWChPMA8=&rs=AOn4CLCPTeuZjsgCoRyLfMrfl0l4RenXxw",
+              "width": 196
+          },
+          {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/GpM75ODizek/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhlIFgoTzAP&rs=AOn4CLDWCU65vL6WBEUcqrDso47Fbj-EfQ",
+              "width": 246
+          },
+          {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/GpM75ODizek/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhlIFgoTzAP&rs=AOn4CLAhwIjPEj5v72bEt5kj5YTyYffcmw",
+              "width": 336
+          }
+          ],
+          "title": "WebApi NetCore Part06",
+          "videoId": "GpM75ODizek"
+      }
+      },
+      {
+      "type": "video",
+      "video": {
+          "badges": [],
+          "isLiveNow": false,
+          "lengthSeconds": 1276,
+          "movingThumbnails": [
+          {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/KbjH5FG5SgY/mqdefault_6s.webp?du=3000&sqp=CNzwsqcG&rs=AOn4CLDQFG6skYIf5BRYsVtKDMzLjTJ09Q",
+              "width": 320
+          }
+          ],
+          "publishedTimeText": "1 month ago",
+          "stats": {
+          "views": 77
+          },
+          "thumbnails": [
+          {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/KbjH5FG5SgY/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGD4gXShyMA8=&rs=AOn4CLB-pBalXABf2X_nzMDTLuSS9DEx2A",
+              "width": 168
+          },
+          {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/KbjH5FG5SgY/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGD4gXShyMA8=&rs=AOn4CLARS0KhmMjEe-5Virgm9QMUuc_w4A",
+              "width": 196
+          },
+          {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/KbjH5FG5SgY/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg-IF0ocjAP&rs=AOn4CLAYM1M3-obec2HBMqYcXISydYrWcA",
+              "width": 246
+          },
+          {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/KbjH5FG5SgY/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg-IF0ocjAP&rs=AOn4CLAumPqhgjqj919m3MDaFtnaA9ilkA",
+              "width": 336
+          }
+          ],
+          "title": "Web ApiNetCore Part05",
+          "videoId": "KbjH5FG5SgY"
+      }
+      },
+      {
+      "type": "video",
+      "video": {
+          "badges": [],
           "isLiveNow": false,
           "lengthSeconds": 528,
           "movingThumbnails": null,
           "publishedTimeText": "1 month ago",
           "stats": {
-            "views": 68
+          "views": 68
           },
           "thumbnails": [
-            {
+          {
               "height": 94,
               "url": "https://i.ytimg.com/vi/5uNq04iPmDg/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGF8gXyhfMA8=&rs=AOn4CLAETJ768gXz0aSAXmk72fV6KTqnYA",
               "width": 168
-            },
-            {
+          },
+          {
               "height": 110,
               "url": "https://i.ytimg.com/vi/5uNq04iPmDg/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGF8gXyhfMA8=&rs=AOn4CLBlJMTBRdQhleN8v9Q-5OmY066DXA",
               "width": 196
-            },
-            {
+          },
+          {
               "height": 138,
               "url": "https://i.ytimg.com/vi/5uNq04iPmDg/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhfIF8oXzAP&rs=AOn4CLDoFDdNMqqH0sy-7KtTvrFykgkX4g",
               "width": 246
-            },
-            {
+          },
+          {
               "height": 188,
               "url": "https://i.ytimg.com/vi/5uNq04iPmDg/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhfIF8oXzAP&rs=AOn4CLD_CfuLkIyJkbaCTpSNzGm1J9SiRQ",
               "width": 336
-            }
+          }
           ],
           "title": "Web ApiNetCore Part04",
           "videoId": "5uNq04iPmDg"
-        }
-      },
-      {
-        "type": "video",
-        "video": {
-          "author": {
-            "avatar": [
-              {
-                "height": 68,
-                "url": "https://yt3.googleusercontent.com/ytc/AOPolaRQMdTorx40VODGGitv_bCo4G_Dr6eFvmBuma3G=s68-c-k-c0x00ffffff-no-rj",
-                "width": 68
-              }
-            ],
-            "badges": [],
-            "canonicalBaseUrl": "/@creativecode787",
-            "channelId": "UC8fkwsjcI_MhralEX1g4OBw",
-            "title": "CreativeCode"
-          },
-          "badges": [],
-          "descriptionSnippet": null,
-          "isLiveNow": false,
-          "lengthSeconds": 3188,
-          "movingThumbnails": [
-            {
-              "height": 180,
-              "url": "https://i.ytimg.com/an_webp/ub5MZ_Q2MKg/mqdefault_6s.webp?du=3000&sqp=CLDxsqcG&rs=AOn4CLB3Qz-jeOU8TkLaBSe1eOnJgj2tJg",
-              "width": 320
-            }
-          ],
-          "publishedTimeText": "4 months ago",
-          "stats": {
-            "views": 26
-          },
-          "thumbnails": [
-            {
-              "height": 94,
-              "url": "https://i.ytimg.com/vi/ub5MZ_Q2MKg/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGDwgXShyMA8=&rs=AOn4CLA4-bfEl_Vg9qTEmkUMp5Y9_amyiQ",
-              "width": 168
-            },
-            {
-              "height": 110,
-              "url": "https://i.ytimg.com/vi/ub5MZ_Q2MKg/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGDwgXShyMA8=&rs=AOn4CLC5veji68OovX1FA_iEZ-rCR5glFg",
-              "width": 196
-            },
-            {
-              "height": 138,
-              "url": "https://i.ytimg.com/vi/ub5MZ_Q2MKg/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg8IF0ocjAP&rs=AOn4CLC3owR3pLrL2JuBq5oQ6aH-mJ689Q",
-              "width": 246
-            },
-            {
-              "height": 188,
-              "url": "https://i.ytimg.com/vi/ub5MZ_Q2MKg/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg8IF0ocjAP&rs=AOn4CLBlDUsqtqdmu74TNZcwV4kkwANIEw",
-              "width": 336
-            }
-          ],
-          "title": "Project Soccer Part 08",
-          "videoId": "ub5MZ_Q2MKg"
-        }
-      },
-      {
-        "type": "video",
-        "video": {
-          "author": {
-            "avatar": [
-              {
-                "height": 68,
-                "url": "https://yt3.googleusercontent.com/ytc/AOPolaRQMdTorx40VODGGitv_bCo4G_Dr6eFvmBuma3G=s68-c-k-c0x00ffffff-no-rj",
-                "width": 68
-              }
-            ],
-            "badges": [],
-            "canonicalBaseUrl": "/@creativecode787",
-            "channelId": "UC8fkwsjcI_MhralEX1g4OBw",
-            "title": "CreativeCode"
-          },
-          "badges": [],
-          "descriptionSnippet": "Relaciones",
-          "isLiveNow": false,
-          "lengthSeconds": 1806,
-          "movingThumbnails": [
-            {
-              "height": 180,
-              "url": "https://i.ytimg.com/an_webp/5-YE12fHmJw/mqdefault_6s.webp?du=3000&sqp=CJyDs6cG&rs=AOn4CLDvRPOpxckwNvTgrTMCiwd_A2XAXA",
-              "width": 320
-            }
-          ],
-          "publishedTimeText": "1 month ago",
-          "stats": {
-            "views": 69
-          },
-          "thumbnails": [
-            {
-              "height": 94,
-              "url": "https://i.ytimg.com/vi/5-YE12fHmJw/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AGKCYAC0AWKAgwIABABGD4gWChlMA8=&rs=AOn4CLA31-l9fkb-vSs6v_0FLc0JokkEuA",
-              "width": 168
-            },
-            {
-              "height": 110,
-              "url": "https://i.ytimg.com/vi/5-YE12fHmJw/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AGKCYAC0AWKAgwIABABGD4gWChlMA8=&rs=AOn4CLBhdXUGjkiXdSn56Ho3nL3IuZytQQ",
-              "width": 196
-            },
-            {
-              "height": 138,
-              "url": "https://i.ytimg.com/vi/5-YE12fHmJw/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBigmAAtAFigIMCAAQARg-IFgoZTAP&rs=AOn4CLDJphn7_-WvONNn6axHOyGCMqK3vw",
-              "width": 246
-            },
-            {
-              "height": 188,
-              "url": "https://i.ytimg.com/vi/5-YE12fHmJw/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBigmAAtAFigIMCAAQARg-IFgoZTAP&rs=AOn4CLBZLKn_sRc9z5mjNfdxT7ipuYsbIQ",
-              "width": 336
-            }
-          ],
-          "title": "WebApi NetCore Part11",
-          "videoId": "5-YE12fHmJw"
-        }
-      },
-      {
-        "type": "video",
-        "video": {
-          "author": {
-            "avatar": [
-              {
-                "height": 68,
-                "url": "https://yt3.googleusercontent.com/ytc/AOPolaRQMdTorx40VODGGitv_bCo4G_Dr6eFvmBuma3G=s68-c-k-c0x00ffffff-no-rj",
-                "width": 68
-              }
-            ],
-            "badges": [],
-            "canonicalBaseUrl": "/@creativecode787",
-            "channelId": "UC8fkwsjcI_MhralEX1g4OBw",
-            "title": "CreativeCode"
-          },
-          "badges": [],
-          "descriptionSnippet": null,
-          "isLiveNow": false,
-          "lengthSeconds": 536,
-          "movingThumbnails": [
-            {
-              "height": 180,
-              "url": "https://i.ytimg.com/an_webp/yaI-lQhPv8s/mqdefault_6s.webp?du=3000&sqp=CKPSsqcG&rs=AOn4CLBUPhF2kSGKlEf9hX4Y9UCQ8C_l_w",
-              "width": 320
-            }
-          ],
-          "publishedTimeText": "1 month ago",
-          "stats": {
-            "views": 74
-          },
-          "thumbnails": [
-            {
-              "height": 94,
-              "url": "https://i.ytimg.com/vi/yaI-lQhPv8s/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgXChOMA8=&rs=AOn4CLBauMQ9Y5h5QQKSBiqhcoTnmJg83Q",
-              "width": 168
-            },
-            {
-              "height": 110,
-              "url": "https://i.ytimg.com/vi/yaI-lQhPv8s/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgXChOMA8=&rs=AOn4CLB-f_uln4fDR9TmvweG9IuIhebHZg",
-              "width": 196
-            },
-            {
-              "height": 138,
-              "url": "https://i.ytimg.com/vi/yaI-lQhPv8s/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFwoTjAP&rs=AOn4CLC4MPkb8q0pA-ItvAy8UI9nXZ14wQ",
-              "width": 246
-            },
-            {
-              "height": 188,
-              "url": "https://i.ytimg.com/vi/yaI-lQhPv8s/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFwoTjAP&rs=AOn4CLBD2hoUtRXFFJ2VKjiNWTD1YKEj7Q",
-              "width": 336
-            }
-          ],
-          "title": "WebApi NetCore Part10",
-          "videoId": "yaI-lQhPv8s"
-        }
-      },
-      {
-        "type": "video",
-        "video": {
-          "author": {
-            "avatar": [
-              {
-                "height": 68,
-                "url": "https://yt3.googleusercontent.com/ytc/AOPolaRQMdTorx40VODGGitv_bCo4G_Dr6eFvmBuma3G=s68-c-k-c0x00ffffff-no-rj",
-                "width": 68
-              }
-            ],
-            "badges": [],
-            "canonicalBaseUrl": "/@creativecode787",
-            "channelId": "UC8fkwsjcI_MhralEX1g4OBw",
-            "title": "CreativeCode"
-          },
-          "badges": [],
-          "descriptionSnippet": "Configuracion y descarga extension Datatables.net",
-          "isLiveNow": false,
-          "lengthSeconds": 704,
-          "movingThumbnails": [
-            {
-              "height": 180,
-              "url": "https://i.ytimg.com/an_webp/GPRUbSLFqHo/mqdefault_6s.webp?du=3000&sqp=CIbbsqcG&rs=AOn4CLD--17O9xhI2clRY0WgT_JX9csmRQ",
-              "width": 320
-            }
-          ],
-          "publishedTimeText": "2 months ago",
-          "stats": {
-            "views": 37
-          },
-          "thumbnails": [
-            {
-              "height": 94,
-              "url": "https://i.ytimg.com/vi/GPRUbSLFqHo/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgVyhLMA8=&rs=AOn4CLBUj4WGm7IxCaYm6__gpJG6Tcw1RA",
-              "width": 168
-            },
-            {
-              "height": 110,
-              "url": "https://i.ytimg.com/vi/GPRUbSLFqHo/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgVyhLMA8=&rs=AOn4CLBUGjqqJBiyxNpllN3m8__aw0NgEg",
-              "width": 196
-            },
-            {
-              "height": 138,
-              "url": "https://i.ytimg.com/vi/GPRUbSLFqHo/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFcoSzAP&rs=AOn4CLDVeqtNERURPUMdk_oiV21NQQs6Ew",
-              "width": 246
-            },
-            {
-              "height": 188,
-              "url": "https://i.ytimg.com/vi/GPRUbSLFqHo/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFcoSzAP&rs=AOn4CLC2B2BN25q5D3-p6X9dhEnc1L4gUw",
-              "width": 336
-            }
-          ],
-          "title": "Desarrollo de App con PHP, Mysql y PDO Part10",
-          "videoId": "GPRUbSLFqHo"
-        }
-      },
-      {
-        "type": "video",
-        "video": {
-          "author": {
-            "avatar": [
-              {
-                "height": 68,
-                "url": "https://yt3.googleusercontent.com/ytc/AOPolaRQMdTorx40VODGGitv_bCo4G_Dr6eFvmBuma3G=s68-c-k-c0x00ffffff-no-rj",
-                "width": 68
-              }
-            ],
-            "badges": [],
-            "canonicalBaseUrl": "/@creativecode787",
-            "channelId": "UC8fkwsjcI_MhralEX1g4OBw",
-            "title": "CreativeCode"
-          },
-          "badges": [],
-          "descriptionSnippet": "Trabajando con Carga de Cards y modales",
-          "isLiveNow": false,
-          "lengthSeconds": 5434,
-          "movingThumbnails": [
-            {
-              "height": 180,
-              "url": "https://i.ytimg.com/an_webp/61a3o-lpAxs/mqdefault_6s.webp?du=3000&sqp=CPT_sqcG&rs=AOn4CLAEXAR109BduZ5_SrDLm2_WUX1-Mw",
-              "width": 320
-            }
-          ],
-          "publishedTimeText": "4 months ago",
-          "stats": {
-            "views": 52
-          },
-          "thumbnails": [
-            {
-              "height": 94,
-              "url": "https://i.ytimg.com/vi/61a3o-lpAxs/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGFcgVihlMA8=&rs=AOn4CLDkGATBdf5kJPy7RmmcoafQ9uxpkg",
-              "width": 168
-            },
-            {
-              "height": 110,
-              "url": "https://i.ytimg.com/vi/61a3o-lpAxs/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGFcgVihlMA8=&rs=AOn4CLDmzVK8Ps3YOeejrdW62sPMLN8CdQ",
-              "width": 196
-            },
-            {
-              "height": 138,
-              "url": "https://i.ytimg.com/vi/61a3o-lpAxs/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhXIFYoZTAP&rs=AOn4CLBHPYAyMIdAxKp8kDzETpOn9CdDPQ",
-              "width": 246
-            },
-            {
-              "height": 188,
-              "url": "https://i.ytimg.com/vi/61a3o-lpAxs/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhXIFYoZTAP&rs=AOn4CLCkhTM6Cmjf2PqWXifrISnJg7xoEw",
-              "width": 336
-            }
-          ],
-          "title": "Proyecto Campus Part 03",
-          "videoId": "61a3o-lpAxs"
-        }
-      },
-      {
-        "type": "video",
-        "video": {
-          "author": {
-            "avatar": [
-              {
-                "height": 68,
-                "url": "https://yt3.googleusercontent.com/ytc/AOPolaRQMdTorx40VODGGitv_bCo4G_Dr6eFvmBuma3G=s68-c-k-c0x00ffffff-no-rj",
-                "width": 68
-              }
-            ],
-            "badges": [],
-            "canonicalBaseUrl": "/@creativecode787",
-            "channelId": "UC8fkwsjcI_MhralEX1g4OBw",
-            "title": "CreativeCode"
-          },
-          "badges": [],
-          "descriptionSnippet": null,
-          "isLiveNow": false,
-          "lengthSeconds": 7835,
-          "movingThumbnails": null,
-          "publishedTimeText": "2 months ago",
-          "stats": {
-            "views": 43
-          },
-          "thumbnails": [
-            {
-              "height": 94,
-              "url": "https://i.ytimg.com/vi/eFrYE0g6HGc/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGC0gVChyMA8=&rs=AOn4CLA-JYqDhSTaZyxu5xjQ1gYvpkbj2w",
-              "width": 168
-            },
-            {
-              "height": 110,
-              "url": "https://i.ytimg.com/vi/eFrYE0g6HGc/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGC0gVChyMA8=&rs=AOn4CLBAyCOKWVbLruYWYn2bbXM3g2p9mQ",
-              "width": 196
-            },
-            {
-              "height": 138,
-              "url": "https://i.ytimg.com/vi/eFrYE0g6HGc/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgtIFQocjAP&rs=AOn4CLDDwue6kdsjV-_45HIUtMSos62Y7w",
-              "width": 246
-            },
-            {
-              "height": 188,
-              "url": "https://i.ytimg.com/vi/eFrYE0g6HGc/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgtIFQocjAP&rs=AOn4CLB7AmXvPhAnkVCAj4LELW31AVlBFw",
-              "width": 336
-            }
-          ],
-          "title": "Linq NetCore 02",
-          "videoId": "eFrYE0g6HGc"
-        }
-      },
-      {
-        "type": "video",
-        "video": {
-          "author": {
-            "avatar": [
-              {
-                "height": 68,
-                "url": "https://yt3.googleusercontent.com/ytc/AOPolaRQMdTorx40VODGGitv_bCo4G_Dr6eFvmBuma3G=s68-c-k-c0x00ffffff-no-rj",
-                "width": 68
-              }
-            ],
-            "badges": [],
-            "canonicalBaseUrl": "/@creativecode787",
-            "channelId": "UC8fkwsjcI_MhralEX1g4OBw",
-            "title": "CreativeCode"
-          },
-          "badges": [],
-          "descriptionSnippet": null,
-          "isLiveNow": false,
-          "lengthSeconds": 1223,
-          "movingThumbnails": [
-            {
-              "height": 180,
-              "url": "https://i.ytimg.com/an_webp/T5adAxLOpf4/mqdefault_6s.webp?du=3000&sqp=CMzpsqcG&rs=AOn4CLBrkMxd0CuKcY_BvL0H7UELCFcQbw",
-              "width": 320
-            }
-          ],
-          "publishedTimeText": "2 years ago",
-          "stats": {
-            "views": 47
-          },
-          "thumbnails": [
-            {
-              "height": 94,
-              "url": "https://i.ytimg.com/vi/T5adAxLOpf4/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AHUBoAC4AOKAgwIABABGH8gGygiMA8=&rs=AOn4CLCGOVFl94qW5u7LhXKZtR3Th9s-Xg",
-              "width": 168
-            },
-            {
-              "height": 110,
-              "url": "https://i.ytimg.com/vi/T5adAxLOpf4/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AHUBoAC4AOKAgwIABABGH8gGygiMA8=&rs=AOn4CLCL2ag-bms4S0biCmBz-oUMPy9lEw",
-              "width": 196
-            },
-            {
-              "height": 138,
-              "url": "https://i.ytimg.com/vi/T5adAxLOpf4/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARh_IBsoIjAP&rs=AOn4CLCxfwSu2reS8VnKpjFF9pMa4Qok2Q",
-              "width": 246
-            },
-            {
-              "height": 188,
-              "url": "https://i.ytimg.com/vi/T5adAxLOpf4/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARh_IBsoIjAP&rs=AOn4CLAzddsx2OzthL01L2IbCV_B10KN3Q",
-              "width": 336
-            }
-          ],
-          "title": "Angular03",
-          "videoId": "T5adAxLOpf4"
-        }
-      },
-      {
-        "type": "video",
-        "video": {
-          "author": {
-            "avatar": [
-              {
-                "height": 68,
-                "url": "https://yt3.googleusercontent.com/ytc/AOPolaRQMdTorx40VODGGitv_bCo4G_Dr6eFvmBuma3G=s68-c-k-c0x00ffffff-no-rj",
-                "width": 68
-              }
-            ],
-            "badges": [],
-            "canonicalBaseUrl": "/@creativecode787",
-            "channelId": "UC8fkwsjcI_MhralEX1g4OBw",
-            "title": "CreativeCode"
-          },
-          "badges": [],
-          "descriptionSnippet": "Configuracion de extensiones para el uso de visual Studio Code en Unity 2020, 2019",
-          "isLiveNow": false,
-          "lengthSeconds": 189,
-          "movingThumbnails": [
-            {
-              "height": 180,
-              "url": "https://i.ytimg.com/an_webp/bGl1Su1Ju14/mqdefault_6s.webp?du=3000&sqp=CKjrsqcG&rs=AOn4CLCi9auCApSHFt7hfNMVyBa46uQZTw",
-              "width": 320
-            }
-          ],
-          "publishedTimeText": "3 years ago",
-          "stats": {
-            "views": 821
-          },
-          "thumbnails": [
-            {
-              "height": 94,
-              "url": "https://i.ytimg.com/vi/bGl1Su1Ju14/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAf-57Hd79uenX-lyUFcl82DfsYNA",
-              "width": 168
-            },
-            {
-              "height": 110,
-              "url": "https://i.ytimg.com/vi/bGl1Su1Ju14/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDNcUNRZ7F7V1RXK2fD2tvxbKhuJA",
-              "width": 196
-            },
-            {
-              "height": 138,
-              "url": "https://i.ytimg.com/vi/bGl1Su1Ju14/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_51G0Acdcsuus_2oOkNds68Rehw",
-              "width": 246
-            },
-            {
-              "height": 188,
-              "url": "https://i.ytimg.com/vi/bGl1Su1Ju14/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSlknSM46rXMWKRue3DvpzFABAVQ",
-              "width": 336
-            }
-          ],
-          "title": "Extensiones De unity en Visual Studio Code",
-          "videoId": "bGl1Su1Ju14"
-        }
-      },
-      {
-        "type": "video",
-        "video": {
-          "author": {
-            "avatar": [
-              {
-                "height": 68,
-                "url": "https://yt3.googleusercontent.com/ytc/AOPolaRQMdTorx40VODGGitv_bCo4G_Dr6eFvmBuma3G=s68-c-k-c0x00ffffff-no-rj",
-                "width": 68
-              }
-            ],
-            "badges": [],
-            "canonicalBaseUrl": "/@creativecode787",
-            "channelId": "UC8fkwsjcI_MhralEX1g4OBw",
-            "title": "CreativeCode"
-          },
-          "badges": [],
-          "descriptionSnippet": "En el siguiente video se realiza la instalacion de Unity3D y versiones recientes.",
-          "isLiveNow": false,
-          "lengthSeconds": 708,
-          "movingThumbnails": [
-            {
-              "height": 180,
-              "url": "https://i.ytimg.com/an_webp/5OMM-ryGqBE/mqdefault_6s.webp?du=3000&sqp=CP6Ms6cG&rs=AOn4CLB7e5I8iprYuJXzyCy2wLawLmaC_A",
-              "width": 320
-            }
-          ],
-          "publishedTimeText": "3 years ago",
-          "stats": {
-            "views": 74
-          },
-          "thumbnails": [
-            {
-              "height": 94,
-              "url": "https://i.ytimg.com/vi/5OMM-ryGqBE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDrJbC68sZaSEUxqEKJYaFB_rx6pQ",
-              "width": 168
-            },
-            {
-              "height": 110,
-              "url": "https://i.ytimg.com/vi/5OMM-ryGqBE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBkrIsYQdMRRAVY0weqMGnqVKqk6A",
-              "width": 196
-            },
-            {
-              "height": 138,
-              "url": "https://i.ytimg.com/vi/5OMM-ryGqBE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJMsstJmKmZaq3gb8l6F3t0x6mRQ",
-              "width": 246
-            },
-            {
-              "height": 188,
-              "url": "https://i.ytimg.com/vi/5OMM-ryGqBE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-6DIA6DfKxt_21ZJHBQYtF3ERKQ",
-              "width": 336
-            }
-          ],
-          "title": "Instalación de Unity3D",
-          "videoId": "5OMM-ryGqBE"
-        }
-      },
-      {
-        "type": "video",
-        "video": {
-          "author": {
-            "avatar": [
-              {
-                "height": 68,
-                "url": "https://yt3.googleusercontent.com/ytc/AOPolaRQMdTorx40VODGGitv_bCo4G_Dr6eFvmBuma3G=s68-c-k-c0x00ffffff-no-rj",
-                "width": 68
-              }
-            ],
-            "badges": [],
-            "canonicalBaseUrl": "/@creativecode787",
-            "channelId": "UC8fkwsjcI_MhralEX1g4OBw",
-            "title": "CreativeCode"
-          },
-          "badges": [],
-          "descriptionSnippet": null,
-          "isLiveNow": false,
-          "lengthSeconds": 1681,
-          "movingThumbnails": [
-            {
-              "height": 180,
-              "url": "https://i.ytimg.com/an_webp/W6JhGg-dEwc/mqdefault_6s.webp?du=3000&sqp=CPvQsqcG&rs=AOn4CLDMmCajd2N2vvqGawHKNTCLZrnVhQ",
-              "width": 320
-            }
-          ],
-          "publishedTimeText": "2 years ago",
-          "stats": {
-            "views": 20
-          },
-          "thumbnails": [
-            {
-              "height": 94,
-              "url": "https://i.ytimg.com/vi/W6JhGg-dEwc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDFEL6SLN_u1BFEOjrYMS4W0cEebw",
-              "width": 168
-            },
-            {
-              "height": 110,
-              "url": "https://i.ytimg.com/vi/W6JhGg-dEwc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLANTr6ueQZLCN-fdOTXepmAj3svHA",
-              "width": 196
-            },
-            {
-              "height": 138,
-              "url": "https://i.ytimg.com/vi/W6JhGg-dEwc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4k3v5gRe3-obzLZlNnAGYDHBb-w",
-              "width": 246
-            },
-            {
-              "height": 188,
-              "url": "https://i.ytimg.com/vi/W6JhGg-dEwc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRhei2PTMJ_Fgw6WCsxUYaSpMLOg",
-              "width": 336
-            }
-          ],
-          "title": "Consumiendo Api Rest desde Angular Part 02",
-          "videoId": "W6JhGg-dEwc"
-        }
-      },
-      {
-        "type": "video",
-        "video": {
-          "author": {
-            "avatar": [
-              {
-                "height": 68,
-                "url": "https://yt3.googleusercontent.com/ytc/AOPolaRQMdTorx40VODGGitv_bCo4G_Dr6eFvmBuma3G=s68-c-k-c0x00ffffff-no-rj",
-                "width": 68
-              }
-            ],
-            "badges": [],
-            "canonicalBaseUrl": "/@creativecode787",
-            "channelId": "UC8fkwsjcI_MhralEX1g4OBw",
-            "title": "CreativeCode"
-          },
-          "badges": [],
-          "descriptionSnippet": null,
-          "isLiveNow": false,
-          "lengthSeconds": 349,
-          "movingThumbnails": null,
-          "publishedTimeText": "3 years ago",
-          "stats": {
-            "views": 118
-          },
-          "thumbnails": [
-            {
-              "height": 94,
-              "url": "https://i.ytimg.com/vi/o7xeIegVIuY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAUWx66UneLeLFd0RJKThJkDJzr4g",
-              "width": 168
-            },
-            {
-              "height": 110,
-              "url": "https://i.ytimg.com/vi/o7xeIegVIuY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBi2jrywl2Qt3s0qIoEqZ7hoAteAw",
-              "width": 196
-            },
-            {
-              "height": 138,
-              "url": "https://i.ytimg.com/vi/o7xeIegVIuY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5-5LpUwvmyV0AM_KIOs-_AelIQg",
-              "width": 246
-            },
-            {
-              "height": 188,
-              "url": "https://i.ytimg.com/vi/o7xeIegVIuY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDroCMvfs6XcyiHy8gk5PQJVDDkQg",
-              "width": 336
-            }
-          ],
-          "title": "Creacion de proyectos en Visual Studio Code",
-          "videoId": "o7xeIegVIuY"
-        }
-      },
-      {
-        "type": "video",
-        "video": {
-          "author": {
-            "avatar": [
-              {
-                "height": 68,
-                "url": "https://yt3.googleusercontent.com/ytc/AOPolaRQMdTorx40VODGGitv_bCo4G_Dr6eFvmBuma3G=s68-c-k-c0x00ffffff-no-rj",
-                "width": 68
-              }
-            ],
-            "badges": [],
-            "canonicalBaseUrl": "/@creativecode787",
-            "channelId": "UC8fkwsjcI_MhralEX1g4OBw",
-            "title": "CreativeCode"
-          },
-          "badges": [],
-          "descriptionSnippet": null,
-          "isLiveNow": false,
-          "lengthSeconds": 458,
-          "movingThumbnails": null,
-          "publishedTimeText": "7 months ago",
-          "stats": {
-            "views": 18
-          },
-          "thumbnails": [
-            {
-              "height": 94,
-              "url": "https://i.ytimg.com/vi/WSDVRVDZobM/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGH8gHChPMA8=&rs=AOn4CLDnMcY1bCXqDugV0v_AET11VXtMEw",
-              "width": 168
-            },
-            {
-              "height": 110,
-              "url": "https://i.ytimg.com/vi/WSDVRVDZobM/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGH8gHChPMA8=&rs=AOn4CLDbakbLWrHUdDQ3CMo7bOgj58fvBw",
-              "width": 196
-            },
-            {
-              "height": 138,
-              "url": "https://i.ytimg.com/vi/WSDVRVDZobM/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_IBwoTzAP&rs=AOn4CLBHSzvdEZVWPGWtKhwVTJhMXESoMg",
-              "width": 246
-            },
-            {
-              "height": 188,
-              "url": "https://i.ytimg.com/vi/WSDVRVDZobM/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_IBwoTzAP&rs=AOn4CLDiVPVH175NFTCm1QIgzUtoAEIqNQ",
-              "width": 336
-            }
-          ],
-          "title": "Instalacion de linux ubuntu",
-          "videoId": "WSDVRVDZobM"
-        }
-      },
-      {
-        "type": "video",
-        "video": {
-          "author": {
-            "avatar": [
-              {
-                "height": 68,
-                "url": "https://yt3.googleusercontent.com/ytc/AOPolaRQMdTorx40VODGGitv_bCo4G_Dr6eFvmBuma3G=s68-c-k-c0x00ffffff-no-rj",
-                "width": 68
-              }
-            ],
-            "badges": [],
-            "canonicalBaseUrl": "/@creativecode787",
-            "channelId": "UC8fkwsjcI_MhralEX1g4OBw",
-            "title": "CreativeCode"
-          },
-          "badges": [],
-          "descriptionSnippet": null,
-          "isLiveNow": false,
-          "lengthSeconds": 184,
-          "movingThumbnails": [
-            {
-              "height": 180,
-              "url": "https://i.ytimg.com/an_webp/TdA45bQoE4E/mqdefault_6s.webp?du=3000&sqp=CMDksqcG&rs=AOn4CLCSYykBtoVXryMzJAA9qaAxQw80PA",
-              "width": 320
-            }
-          ],
-          "publishedTimeText": "3 years ago",
-          "stats": {
-            "views": 364
-          },
-          "thumbnails": [
-            {
-              "height": 94,
-              "url": "https://i.ytimg.com/vi/TdA45bQoE4E/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCCWAYrJuuIg_-Ti4LoU7OECJpWiQ",
-              "width": 168
-            },
-            {
-              "height": 110,
-              "url": "https://i.ytimg.com/vi/TdA45bQoE4E/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDE7smmZa8vhY0CyWhcZ9hf4AiYgw",
-              "width": 196
-            },
-            {
-              "height": 138,
-              "url": "https://i.ytimg.com/vi/TdA45bQoE4E/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFHC2C0iiOHwh2gtFtLMr_yFO9kQ",
-              "width": 246
-            },
-            {
-              "height": 188,
-              "url": "https://i.ytimg.com/vi/TdA45bQoE4E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKJ1TZiK9pQFoe0uniubSjUgiD9g",
-              "width": 336
-            }
-          ],
-          "title": "Instalacion Node JS",
-          "videoId": "TdA45bQoE4E"
-        }
-      },
-      {
-        "type": "video",
-        "video": {
-          "author": {
-            "avatar": [
-              {
-                "height": 68,
-                "url": "https://yt3.googleusercontent.com/ytc/AOPolaRQMdTorx40VODGGitv_bCo4G_Dr6eFvmBuma3G=s68-c-k-c0x00ffffff-no-rj",
-                "width": 68
-              }
-            ],
-            "badges": [],
-            "canonicalBaseUrl": "/@creativecode787",
-            "channelId": "UC8fkwsjcI_MhralEX1g4OBw",
-            "title": "CreativeCode"
-          },
-          "badges": [],
-          "descriptionSnippet": null,
-          "isLiveNow": false,
-          "lengthSeconds": 4335,
-          "movingThumbnails": [
-            {
-              "height": 180,
-              "url": "https://i.ytimg.com/an_webp/aMWdVhseSPg/mqdefault_6s.webp?du=3000&sqp=CKDksqcG&rs=AOn4CLBgU_WSUlyo2RVFImr5XseS9R6pUQ",
-              "width": 320
-            }
-          ],
-          "publishedTimeText": "2 months ago",
-          "stats": {
-            "views": 33
-          },
-          "thumbnails": [
-            {
-              "height": 94,
-              "url": "https://i.ytimg.com/vi/aMWdVhseSPg/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGD8gVihlMA8=&rs=AOn4CLCQTlA7DQn_bi-0qr3369KhEewZ_A",
-              "width": 168
-            },
-            {
-              "height": 110,
-              "url": "https://i.ytimg.com/vi/aMWdVhseSPg/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGD8gVihlMA8=&rs=AOn4CLBIAzEW_JFzkkiph3UpxIjLPehuBg",
-              "width": 196
-            },
-            {
-              "height": 138,
-              "url": "https://i.ytimg.com/vi/aMWdVhseSPg/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg_IFYoZTAP&rs=AOn4CLBWJhMQ1avRrCZhHWSSr-d-mcuyMw",
-              "width": 246
-            },
-            {
-              "height": 188,
-              "url": "https://i.ytimg.com/vi/aMWdVhseSPg/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg_IFYoZTAP&rs=AOn4CLBjM5phtgiepm1I0doy0E4ag8QqrQ",
-              "width": 336
-            }
-          ],
-          "title": "Diccionarios Net01",
-          "videoId": "aMWdVhseSPg"
-        }
-      },
-      {
-        "type": "video",
-        "video": {
-          "author": {
-            "avatar": [
-              {
-                "height": 68,
-                "url": "https://yt3.googleusercontent.com/ytc/AOPolaRQMdTorx40VODGGitv_bCo4G_Dr6eFvmBuma3G=s68-c-k-c0x00ffffff-no-rj",
-                "width": 68
-              }
-            ],
-            "badges": [],
-            "canonicalBaseUrl": "/@creativecode787",
-            "channelId": "UC8fkwsjcI_MhralEX1g4OBw",
-            "title": "CreativeCode"
-          },
-          "badges": [],
-          "descriptionSnippet": null,
-          "isLiveNow": false,
-          "lengthSeconds": 4368,
-          "movingThumbnails": [
-            {
-              "height": 180,
-              "url": "https://i.ytimg.com/an_webp/TuBP6nB7Nu0/mqdefault_6s.webp?du=3000&sqp=COHqsqcG&rs=AOn4CLA654IcRlt1Viwqruplb8JqzwOtng",
-              "width": 320
-            }
-          ],
-          "publishedTimeText": "11 months ago",
-          "stats": {
-            "views": 36
-          },
-          "thumbnails": [
-            {
-              "height": 94,
-              "url": "https://i.ytimg.com/vi/TuBP6nB7Nu0/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGYgZihmMA8=&rs=AOn4CLB6ZrSyWUN9JSi3wQD0JmEPkx8wnQ",
-              "width": 168
-            },
-            {
-              "height": 110,
-              "url": "https://i.ytimg.com/vi/TuBP6nB7Nu0/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGYgZihmMA8=&rs=AOn4CLAKDycVGGFcTrOzuFOGHvJwXaF3Ig",
-              "width": 196
-            },
-            {
-              "height": 138,
-              "url": "https://i.ytimg.com/vi/TuBP6nB7Nu0/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhmIGYoZjAP&rs=AOn4CLDNMB4GOR9TtvqicGI-ut6wEIebVQ",
-              "width": 246
-            },
-            {
-              "height": 188,
-              "url": "https://i.ytimg.com/vi/TuBP6nB7Nu0/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhmIGYoZjAP&rs=AOn4CLB9WCMSieWJ916YhFgeG6jG1Bi7Xw",
-              "width": 336
-            }
-          ],
-          "title": "Video Agosto 19",
-          "videoId": "TuBP6nB7Nu0"
-        }
-      },
-      {
-        "type": "video",
-        "video": {
-          "author": {
-            "avatar": [
-              {
-                "height": 68,
-                "url": "https://yt3.googleusercontent.com/ytc/AOPolaRQMdTorx40VODGGitv_bCo4G_Dr6eFvmBuma3G=s68-c-k-c0x00ffffff-no-rj",
-                "width": 68
-              }
-            ],
-            "badges": [],
-            "canonicalBaseUrl": "/@creativecode787",
-            "channelId": "UC8fkwsjcI_MhralEX1g4OBw",
-            "title": "CreativeCode"
-          },
-          "badges": [],
-          "descriptionSnippet": null,
-          "isLiveNow": false,
-          "lengthSeconds": 499,
-          "movingThumbnails": null,
-          "publishedTimeText": "3 years ago",
-          "stats": {
-            "views": 155
-          },
-          "thumbnails": [
-            {
-              "height": 94,
-              "url": "https://i.ytimg.com/vi/XJBZh5hjMa0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB3kHR4O08vE_aUE4w2RnBBdOfi9g",
-              "width": 168
-            },
-            {
-              "height": 110,
-              "url": "https://i.ytimg.com/vi/XJBZh5hjMa0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCNXxAhzprey_B-VRO7JiJzGoJK5A",
-              "width": 196
-            },
-            {
-              "height": 138,
-              "url": "https://i.ytimg.com/vi/XJBZh5hjMa0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGRQZNExT5cLWp9ghUsxsAS1hFvg",
-              "width": 246
-            },
-            {
-              "height": 188,
-              "url": "https://i.ytimg.com/vi/XJBZh5hjMa0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCWHPmXeKkptiVvBSkk_mZ5aIg1g",
-              "width": 336
-            }
-          ],
-          "title": "Instalacion y Configuracion de PostgreSQL",
-          "videoId": "XJBZh5hjMa0"
-        }
-      },
-      {
-        "type": "video",
-        "video": {
-          "author": {
-            "avatar": [
-              {
-                "height": 68,
-                "url": "https://yt3.googleusercontent.com/ytc/AOPolaRQMdTorx40VODGGitv_bCo4G_Dr6eFvmBuma3G=s68-c-k-c0x00ffffff-no-rj",
-                "width": 68
-              }
-            ],
-            "badges": [],
-            "canonicalBaseUrl": "/@creativecode787",
-            "channelId": "UC8fkwsjcI_MhralEX1g4OBw",
-            "title": "CreativeCode"
-          },
-          "badges": [],
-          "descriptionSnippet": null,
-          "isLiveNow": false,
-          "lengthSeconds": 103,
-          "movingThumbnails": [
-            {
-              "height": 180,
-              "url": "https://i.ytimg.com/an_webp/EV0LnXsqNOo/mqdefault_6s.webp?du=3000&sqp=COLqsqcG&rs=AOn4CLDyxBhQZXyII7NTdknGI-yH1eH-jg",
-              "width": 320
-            }
-          ],
-          "publishedTimeText": "2 months ago",
-          "stats": {
-            "views": 51
-          },
-          "thumbnails": [
-            {
-              "height": 94,
-              "url": "https://i.ytimg.com/vi/EV0LnXsqNOo/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCyiWSWpdP-Q83dADO7q1kMyWlJfg",
-              "width": 168
-            },
-            {
-              "height": 110,
-              "url": "https://i.ytimg.com/vi/EV0LnXsqNOo/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLABujAsIyvBC0dFI5sqJh98nX34gg",
-              "width": 196
-            },
-            {
-              "height": 138,
-              "url": "https://i.ytimg.com/vi/EV0LnXsqNOo/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLA-c0Ax5KC8TeJ4rcq-wsPBPAgTQg",
-              "width": 246
-            },
-            {
-              "height": 188,
-              "url": "https://i.ytimg.com/vi/EV0LnXsqNOo/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLAJUIdj753VkjbVQRNzAvegiKelcA",
-              "width": 336
-            }
-          ],
-          "title": "netCore EstructuraProyecto",
-          "videoId": "EV0LnXsqNOo"
-        }
-      },
-      {
-        "type": "video",
-        "video": {
-          "author": {
-            "avatar": [
-              {
-                "height": 68,
-                "url": "https://yt3.googleusercontent.com/ytc/AOPolaRQMdTorx40VODGGitv_bCo4G_Dr6eFvmBuma3G=s68-c-k-c0x00ffffff-no-rj",
-                "width": 68
-              }
-            ],
-            "badges": [],
-            "canonicalBaseUrl": "/@creativecode787",
-            "channelId": "UC8fkwsjcI_MhralEX1g4OBw",
-            "title": "CreativeCode"
-          },
-          "badges": [],
-          "descriptionSnippet": "En este video estudiaremos es uso de la structura switch en c#",
-          "isLiveNow": false,
-          "lengthSeconds": 490,
-          "movingThumbnails": [
-            {
-              "height": 180,
-              "url": "https://i.ytimg.com/an_webp/onZh3pY94_A/mqdefault_6s.webp?du=3000&sqp=CICSs6cG&rs=AOn4CLBwVpztj3x3XRyS68JEYkp1NxQeFw",
-              "width": 320
-            }
-          ],
-          "publishedTimeText": "3 years ago",
-          "stats": {
-            "views": 30
-          },
-          "thumbnails": [
-            {
-              "height": 94,
-              "url": "https://i.ytimg.com/vi/onZh3pY94_A/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBAWTyZ-qiKISBSLD1ygRzS5Znrdw",
-              "width": 168
-            },
-            {
-              "height": 110,
-              "url": "https://i.ytimg.com/vi/onZh3pY94_A/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAenTXH_QsKGBxEmadHUDJowQB6RA",
-              "width": 196
-            },
-            {
-              "height": 138,
-              "url": "https://i.ytimg.com/vi/onZh3pY94_A/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAP95Ka8jP1wP5VaA4fIlINmqxdBQ",
-              "width": 246
-            },
-            {
-              "height": 188,
-              "url": "https://i.ytimg.com/vi/onZh3pY94_A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAN4SIRjMmB7JouVcO-9MtsaiGmTg",
-              "width": 336
-            }
-          ],
-          "title": "Estructura Switch C#",
-          "videoId": "onZh3pY94_A"
-        }
-      },
-      {
-        "type": "video",
-        "video": {
-          "author": {
-            "avatar": [
-              {
-                "height": 68,
-                "url": "https://yt3.googleusercontent.com/ytc/AOPolaRQMdTorx40VODGGitv_bCo4G_Dr6eFvmBuma3G=s68-c-k-c0x00ffffff-no-rj",
-                "width": 68
-              }
-            ],
-            "badges": [],
-            "canonicalBaseUrl": "/@creativecode787",
-            "channelId": "UC8fkwsjcI_MhralEX1g4OBw",
-            "title": "CreativeCode"
-          },
-          "badges": [],
-          "descriptionSnippet": null,
-          "isLiveNow": false,
-          "lengthSeconds": 2509,
-          "movingThumbnails": null,
-          "publishedTimeText": "6 months ago",
-          "stats": {
-            "views": 364
-          },
-          "thumbnails": [
-            {
-              "height": 94,
-              "url": "https://i.ytimg.com/vi/U2q9z9kjXAk/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGBIgZSg-MA8=&rs=AOn4CLAYj98Ov8v0IlVOHXuyXAd6HYyaBg",
-              "width": 168
-            },
-            {
-              "height": 110,
-              "url": "https://i.ytimg.com/vi/U2q9z9kjXAk/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGBIgZSg-MA8=&rs=AOn4CLBx-Mx4i7NJhFwmmtLEbKxRa9-FdA",
-              "width": 196
-            },
-            {
-              "height": 138,
-              "url": "https://i.ytimg.com/vi/U2q9z9kjXAk/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgSIGUoPjAP&rs=AOn4CLAwCQt2AWShwNtm-1EnAICfsZm-Dw",
-              "width": 246
-            },
-            {
-              "height": 188,
-              "url": "https://i.ytimg.com/vi/U2q9z9kjXAk/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgSIGUoPjAP&rs=AOn4CLDsqmVzzIgSJwempOPJU92W1Gep3A",
-              "width": 336
-            }
-          ],
-          "title": "Html Part01",
-          "videoId": "U2q9z9kjXAk"
-        }
-      },
-      {
-        "type": "video",
-        "video": {
-          "author": {
-            "avatar": [
-              {
-                "height": 68,
-                "url": "https://yt3.googleusercontent.com/ytc/AOPolaRQMdTorx40VODGGitv_bCo4G_Dr6eFvmBuma3G=s68-c-k-c0x00ffffff-no-rj",
-                "width": 68
-              }
-            ],
-            "badges": [],
-            "canonicalBaseUrl": "/@creativecode787",
-            "channelId": "UC8fkwsjcI_MhralEX1g4OBw",
-            "title": "CreativeCode"
-          },
-          "badges": [],
-          "descriptionSnippet": null,
-          "isLiveNow": false,
-          "lengthSeconds": 1833,
-          "movingThumbnails": [
-            {
-              "height": 180,
-              "url": "https://i.ytimg.com/an_webp/gYYmTEwk1YA/mqdefault_6s.webp?du=3000&sqp=CIDWsqcG&rs=AOn4CLBanFhOk2GgxacrKAtuv2dxPMD4kA",
-              "width": 320
-            }
-          ],
-          "publishedTimeText": "6 months ago",
-          "stats": {
-            "views": 193
-          },
-          "thumbnails": [
-            {
-              "height": 94,
-              "url": "https://i.ytimg.com/vi/gYYmTEwk1YA/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGH8gIChCMA8=&rs=AOn4CLBHEuSfrgr5DFTJ4PbQ8YUdgpmm6g",
-              "width": 168
-            },
-            {
-              "height": 110,
-              "url": "https://i.ytimg.com/vi/gYYmTEwk1YA/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGH8gIChCMA8=&rs=AOn4CLB5yGVukl9v385Qby-v1kbbxfp4TQ",
-              "width": 196
-            },
-            {
-              "height": 138,
-              "url": "https://i.ytimg.com/vi/gYYmTEwk1YA/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_ICAoQjAP&rs=AOn4CLAPH0hhmBBaXFw-auf-_G0l4lsHmA",
-              "width": 246
-            },
-            {
-              "height": 188,
-              "url": "https://i.ytimg.com/vi/gYYmTEwk1YA/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_ICAoQjAP&rs=AOn4CLB5qv-yVWykviXrlXXiEFus7BSdCg",
-              "width": 336
-            }
-          ],
-          "title": "Configuración VS Code y Python",
-          "videoId": "gYYmTEwk1YA"
-        }
-      },
-      {
-        "type": "video",
-        "video": {
-          "author": {
-            "avatar": [
-              {
-                "height": 68,
-                "url": "https://yt3.googleusercontent.com/ytc/AOPolaRQMdTorx40VODGGitv_bCo4G_Dr6eFvmBuma3G=s68-c-k-c0x00ffffff-no-rj",
-                "width": 68
-              }
-            ],
-            "badges": [],
-            "canonicalBaseUrl": "/@creativecode787",
-            "channelId": "UC8fkwsjcI_MhralEX1g4OBw",
-            "title": "CreativeCode"
-          },
-          "badges": [],
-          "descriptionSnippet": null,
-          "isLiveNow": false,
-          "lengthSeconds": 816,
-          "movingThumbnails": [
-            {
-              "height": 180,
-              "url": "https://i.ytimg.com/an_webp/H8w7FOhyceQ/mqdefault_6s.webp?du=3000&sqp=CID0sqcG&rs=AOn4CLAghUX9v6c9YPlsTIDRg3IzMUMnKw",
-              "width": 320
-            }
-          ],
-          "publishedTimeText": "2 months ago",
-          "stats": {
-            "views": 24
-          },
-          "thumbnails": [
-            {
-              "height": 94,
-              "url": "https://i.ytimg.com/vi/H8w7FOhyceQ/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGFsgYChlMA8=&rs=AOn4CLCiWBgmstTqiRjlWBKmqlruyJr4Kg",
-              "width": 168
-            },
-            {
-              "height": 110,
-              "url": "https://i.ytimg.com/vi/H8w7FOhyceQ/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGFsgYChlMA8=&rs=AOn4CLBrH_iDUajSqRnSXTjIrft3aAgFZQ",
-              "width": 196
-            },
-            {
-              "height": 138,
-              "url": "https://i.ytimg.com/vi/H8w7FOhyceQ/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhbIGAoZTAP&rs=AOn4CLBsggw9XNb809rjXY3pieMT2eYaIQ",
-              "width": 246
-            },
-            {
-              "height": 188,
-              "url": "https://i.ytimg.com/vi/H8w7FOhyceQ/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhbIGAoZTAP&rs=AOn4CLB-YK5J5Ib4qg-PsIyXCFDNfw6r-Q",
-              "width": 336
-            }
-          ],
-          "title": "netcore ArrayList Part02",
-          "videoId": "H8w7FOhyceQ"
-        }
-      },
-      {
-        "type": "video",
-        "video": {
-          "author": {
-            "avatar": [
-              {
-                "height": 68,
-                "url": "https://yt3.googleusercontent.com/ytc/AOPolaRQMdTorx40VODGGitv_bCo4G_Dr6eFvmBuma3G=s68-c-k-c0x00ffffff-no-rj",
-                "width": 68
-              }
-            ],
-            "badges": [],
-            "canonicalBaseUrl": "/@creativecode787",
-            "channelId": "UC8fkwsjcI_MhralEX1g4OBw",
-            "title": "CreativeCode"
-          },
-          "badges": [],
-          "descriptionSnippet": null,
-          "isLiveNow": false,
-          "lengthSeconds": 2021,
-          "movingThumbnails": [
-            {
-              "height": 180,
-              "url": "https://i.ytimg.com/an_webp/pOzD6L8sEl4/mqdefault_6s.webp?du=3000&sqp=CK72sqcG&rs=AOn4CLCIlbz30MksGs76R06rE-NtrwF3QA",
-              "width": 320
-            }
-          ],
-          "publishedTimeText": "4 months ago",
-          "stats": {
-            "views": 22
-          },
-          "thumbnails": [
-            {
-              "height": 94,
-              "url": "https://i.ytimg.com/vi/pOzD6L8sEl4/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGFUgXihlMA8=&rs=AOn4CLDIUOUqGzzD53VnzHnVi6cijuFcVw",
-              "width": 168
-            },
-            {
-              "height": 110,
-              "url": "https://i.ytimg.com/vi/pOzD6L8sEl4/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGFUgXihlMA8=&rs=AOn4CLDJJtMP9pW5l1ZIpxt3BQDb3h_B2w",
-              "width": 196
-            },
-            {
-              "height": 138,
-              "url": "https://i.ytimg.com/vi/pOzD6L8sEl4/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhVIF4oZTAP&rs=AOn4CLAyQUNqsOtlLLOr2gUlC45GFfukZw",
-              "width": 246
-            },
-            {
-              "height": 188,
-              "url": "https://i.ytimg.com/vi/pOzD6L8sEl4/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhVIF4oZTAP&rs=AOn4CLDp6vJQhzJFne1fkEb4IyOnzvNvbw",
-              "width": 336
-            }
-          ],
-          "title": "Project Soccer Part 07",
-          "videoId": "pOzD6L8sEl4"
-        }
       }
-    ],
-    "cursorNext": "4qmFsgJzEhhVQzhma3dzamNJX01ocmFsRVgxZzRPQncaJkNCNFNCbk5sWVhKamFEQUJPQUZnQVdvQWVnTkhRalM0QVFBJTNEWgNuZXSaAilicm93c2UtZmVlZFVDOGZrd3NqY0lfTWhyYWxFWDFnNE9Cd3NlYXJjaA%3D%3D"
+      },
+      {
+      "type": "video",
+      "video": {
+          "badges": [],
+          "isLiveNow": false,
+          "lengthSeconds": 605,
+          "movingThumbnails": [
+          {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/sG6i5lk24FA/mqdefault_6s.webp?du=3000&sqp=CICes6cG&rs=AOn4CLA8nW5A2Acw8yhNkyppTmK562qwoA",
+              "width": 320
+          }
+          ],
+          "publishedTimeText": "1 month ago",
+          "stats": {
+          "views": 72
+          },
+          "thumbnails": [
+          {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/sG6i5lk24FA/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGAgYChgMA8=&rs=AOn4CLDon0up4jjjCrgju1O5pw_u7i2P6A",
+              "width": 168
+          },
+          {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/sG6i5lk24FA/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGAgYChgMA8=&rs=AOn4CLDpTs7yq0MYUxZEzrQwGQVvEXKRJQ",
+              "width": 196
+          },
+          {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/sG6i5lk24FA/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhgIGAoYDAP&rs=AOn4CLDhRE-5wxdPPk8oDKn6trEed-0brA",
+              "width": 246
+          },
+          {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/sG6i5lk24FA/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhgIGAoYDAP&rs=AOn4CLAaxqnvfHT_wIJvPkWVXvwY2speeA",
+              "width": 336
+          }
+          ],
+          "title": "Web ApiNetCore Part03",
+          "videoId": "sG6i5lk24FA"
+      }
+      },
+      {
+      "type": "video",
+      "video": {
+          "badges": [],
+          "isLiveNow": false,
+          "lengthSeconds": 370,
+          "movingThumbnails": null,
+          "publishedTimeText": "1 month ago",
+          "stats": {
+          "views": 88
+          },
+          "thumbnails": [
+          {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/kw6SHS7sMh8/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGFYgZShPMA8=&rs=AOn4CLCPcuyudFqaH-zAfzQA4Bwzs7edKQ",
+              "width": 168
+          },
+          {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/kw6SHS7sMh8/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGFYgZShPMA8=&rs=AOn4CLC8z_VWCQ7_POeBuGL58voIZy1bAA",
+              "width": 196
+          },
+          {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/kw6SHS7sMh8/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhWIGUoTzAP&rs=AOn4CLDlb7Cb9-vEqriNKZMqOSbZ6gK33g",
+              "width": 246
+          },
+          {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/kw6SHS7sMh8/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhWIGUoTzAP&rs=AOn4CLDnm7cAlt9z0pRSqag36YG-8C88Fg",
+              "width": 336
+          }
+          ],
+          "title": "Web ApiNetCore Part02",
+          "videoId": "kw6SHS7sMh8"
+      }
+      },
+      {
+      "type": "video",
+      "video": {
+          "badges": [],
+          "isLiveNow": false,
+          "lengthSeconds": 720,
+          "movingThumbnails": [
+          {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/S5QOJ_4ZQ80/mqdefault_6s.webp?du=3000&sqp=CNGgs6cG&rs=AOn4CLDW6l3zuEtcHgNeR0aTyH7shvAM2Q",
+              "width": 320
+          }
+          ],
+          "publishedTimeText": "1 month ago",
+          "stats": {
+          "views": 112
+          },
+          "thumbnails": [
+          {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/S5QOJ_4ZQ80/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGEwgWyhlMA8=&rs=AOn4CLDK3Cf_yNC7CCxtCTzPdGAiuAUmvg",
+              "width": 168
+          },
+          {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/S5QOJ_4ZQ80/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGEwgWyhlMA8=&rs=AOn4CLCIDrqdixnF0rBDB8uv3pB0liNvOg",
+              "width": 196
+          },
+          {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/S5QOJ_4ZQ80/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhMIFsoZTAP&rs=AOn4CLDpCoPaoSSQtAQ5Cj_0EF-MuQ_9sg",
+              "width": 246
+          },
+          {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/S5QOJ_4ZQ80/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhMIFsoZTAP&rs=AOn4CLA2QyAv9rkZ0PW_Ys14gS4CBInSpA",
+              "width": 336
+          }
+          ],
+          "title": "Web ApiNetCore Part01",
+          "videoId": "S5QOJ_4ZQ80"
+      }
+      },
+      {
+      "type": "video",
+      "video": {
+          "badges": [],
+          "isLiveNow": false,
+          "lengthSeconds": 4009,
+          "movingThumbnails": [
+          {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/pz3kEz16SaQ/mqdefault_6s.webp?du=3000&sqp=CKiTs6cG&rs=AOn4CLCc1XFoBA0h0rVTyD_-kNvInbFCcg",
+              "width": 320
+          }
+          ],
+          "publishedTimeText": "1 month ago",
+          "stats": {
+          "views": 51
+          },
+          "thumbnails": [
+          {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/pz3kEz16SaQ/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGQgZChkMA8=&rs=AOn4CLAGp34Bi9ZOM8H9JdoAT5f5ks14RA",
+              "width": 168
+          },
+          {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/pz3kEz16SaQ/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGQgZChkMA8=&rs=AOn4CLCDq5IA2XukaFgNnVmUfLIbyBWx6w",
+              "width": 196
+          },
+          {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/pz3kEz16SaQ/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhkIGQoZDAP&rs=AOn4CLBk6EPDccWTxA0fWLiOI46S5UUriA",
+              "width": 246
+          },
+          {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/pz3kEz16SaQ/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhkIGQoZDAP&rs=AOn4CLDgn7jnoNa59_QYPrQFHFlo3gGcOw",
+              "width": 336
+          }
+          ],
+          "title": "Taller git y Archivos python part 01",
+          "videoId": "pz3kEz16SaQ"
+      }
+      },
+      {
+      "type": "video",
+      "video": {
+          "badges": [],
+          "isLiveNow": false,
+          "lengthSeconds": 5263,
+          "movingThumbnails": [
+          {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/uGaWTn4hb5k/mqdefault_6s.webp?du=3000&sqp=CLWOs6cG&rs=AOn4CLCRaf8snCNSZY-VLvhdwsrdG5NN0g",
+              "width": 320
+          }
+          ],
+          "publishedTimeText": "1 month ago",
+          "stats": {
+          "views": 30
+          },
+          "thumbnails": [
+          {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/uGaWTn4hb5k/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGFkgYChlMA8=&rs=AOn4CLCPDIiV7MFKEGUFtkX5Rh9Q9WN8uA",
+              "width": 168
+          },
+          {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/uGaWTn4hb5k/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGFkgYChlMA8=&rs=AOn4CLC0GyiB6K94jhfirwkKxM-x7r1cBw",
+              "width": 196
+          },
+          {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/uGaWTn4hb5k/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhZIGAoZTAP&rs=AOn4CLB39hkQSlAttmdfG69J7wV3SyS6Nw",
+              "width": 246
+          },
+          {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/uGaWTn4hb5k/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhZIGAoZTAP&rs=AOn4CLDvAnHs0D55UhVoO4JF1n1N4D3n_w",
+              "width": 336
+          }
+          ],
+          "title": "Archivos Python 02",
+          "videoId": "uGaWTn4hb5k"
+      }
+      },
+      {
+      "type": "video",
+      "video": {
+          "badges": [],
+          "isLiveNow": false,
+          "lengthSeconds": 5367,
+          "movingThumbnails": null,
+          "publishedTimeText": "1 month ago",
+          "stats": {
+          "views": 34
+          },
+          "thumbnails": [
+          {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/A5YXQgZwARs/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGD0gXyhyMA8=&rs=AOn4CLBB12xfaL5BtvQxycRpusU634pDWA",
+              "width": 168
+          },
+          {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/A5YXQgZwARs/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGD0gXyhyMA8=&rs=AOn4CLCLll2cy0a2tmQATBj1RFz9xAV1zQ",
+              "width": 196
+          },
+          {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/A5YXQgZwARs/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg9IF8ocjAP&rs=AOn4CLDew4-Le7KeFMIwgjuMPn38kK-veA",
+              "width": 246
+          },
+          {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/A5YXQgZwARs/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg9IF8ocjAP&rs=AOn4CLD8KvuFpybwU1lsQ6bZ5u4nuz6f_w",
+              "width": 336
+          }
+          ],
+          "title": "Refuerzo python Diccionarios",
+          "videoId": "A5YXQgZwARs"
+      }
+      },
+      {
+      "type": "video",
+      "video": {
+          "badges": [],
+          "isLiveNow": false,
+          "lengthSeconds": 4415,
+          "movingThumbnails": null,
+          "publishedTimeText": "1 month ago",
+          "stats": {
+          "views": 31
+          },
+          "thumbnails": [
+          {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/8suWl2YZzsg/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGBMgFSh_MA8=&rs=AOn4CLCmIfqHeWFymldx7IOjUOZgSY7wbw",
+              "width": 168
+          },
+          {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/8suWl2YZzsg/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGBMgFSh_MA8=&rs=AOn4CLCkq66LVfuCp--wYUVc0FBeqvXkAQ",
+              "width": 196
+          },
+          {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/8suWl2YZzsg/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgTIBUofzAP&rs=AOn4CLAC7eah8SisR8Z8WCot0BcL2KYgJw",
+              "width": 246
+          },
+          {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/8suWl2YZzsg/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgTIBUofzAP&rs=AOn4CLABP6AMUETyiadFfk3GBRJcYsurOQ",
+              "width": 336
+          }
+          ],
+          "title": "Python 30-06-2023",
+          "videoId": "8suWl2YZzsg"
+      }
+      },
+      {
+      "type": "video",
+      "video": {
+          "badges": [],
+          "isLiveNow": false,
+          "lengthSeconds": 4796,
+          "movingThumbnails": [
+          {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/Ry4IelqXES4/mqdefault_6s.webp?du=3000&sqp=CJqfs6cG&rs=AOn4CLBllRIAN7IKVczjaSWbvvMobkMUNg",
+              "width": 320
+          }
+          ],
+          "publishedTimeText": "1 month ago",
+          "stats": {
+          "views": 79
+          },
+          "thumbnails": [
+          {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/Ry4IelqXES4/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGEkgXChlMA8=&rs=AOn4CLAnJGZP2CS2Ngljqy3Q92ntKIWTwA",
+              "width": 168
+          },
+          {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/Ry4IelqXES4/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGEkgXChlMA8=&rs=AOn4CLBgIBxDIudPFR7Tb10kHz4G9sUI3g",
+              "width": 196
+          },
+          {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/Ry4IelqXES4/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhJIFwoZTAP&rs=AOn4CLAbkgl7W2KTxh0S-uqcHaRr3iPTCg",
+              "width": 246
+          },
+          {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/Ry4IelqXES4/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhJIFwoZTAP&rs=AOn4CLBoCo2rJPN4N2AwDzjV_KXm9d986Q",
+              "width": 336
+          }
+          ],
+          "title": "python Fifa 02",
+          "videoId": "Ry4IelqXES4"
+      }
+      }
+  ],
+  "cursorNext": "4qmFsgK1ChIYVUM4Zmt3c2pjSV9NaHJhbEVYMWc0T0J3GpgKOGdiT0J4ckxCM3JJQndyREJ3cWFCME55UVVaRFoxSnBXRE5TY2tWeFkwWkJVMnhtWlRkVE5tMWhXVVZ4VjBNeFlYcFFhMmx1TUZVMFgwTTRSbGxMWXpWM2RrUnJTSG81ZG1JNWMzYzRkMWx1TUZkdE1rTmxUVXhsVm1aTFVtaHJUVU40Y1hwemRERXhPRmhaU1RKd09IY3pXbU5EYWs5blQxQndlazVSV25BMU0xVmZYekZmYzBWelVYZG5jVFJ6UkVacFFsOTVRVkpYTnpoTGFuUmFObEZVU1hsMlRFeHFjWHB3TWxJeE5sRnBSMHRCU0RCQlJUTTRhMFZJYjBKR2FtdHlkMVZKTjNGdlMxWXdZVFp1VDJjNGQwdGxkVGN3TXpCb2VYUlhXbG81YjFkc2RrUTJaR0k0U3pWUFRHMDRiR3hZUkZGRmVIZzVTRmRvVXkwNGMxaFZNMDg0VjFKdk1IQjNMWFV0UVZOSWJHVk5iRzlTYlVoNFMwNU5OblpJUldsNGRXSkRZVWxsYlRaWU5qaG9SRU5KV1hwM1VucEhMVUZqWWtnNVJtVjFXalZXY3pkU1QxbEtkVlZ6YkRremJFTjFSRlZvU1ZWZldVaGFaMWhWU210aWMyMUpibE5RVm5WMFZGRjZWSEE1UVhoR1FsQm9hVTFmY0RCWU5ETldkWEJXT0RoR1NYWndaMDFvY0RSUmVFVnFTMmxVT1hGWVZIZHViRTVEYVZWeVYzcG9iakJtU1RkRWJXdFBTRXRFWlhSSmFEVlNUa05ITVZaWmNWWjVkSFZ1WWtGWlgweFJaVFZQTlRSak5rNUdkbEZWUzB4elVsSnlTM0ZKZDNveE56UlFXbmx0TVRsNllUTk5iMk5oT0dNdFVrVlhWMkYwVUd0UWVsUlRTakpNYUdnME9YUkVXalZmT1VWNk5URkZkMUpqUWsweGJITlFNMGxDTkRadVJsUkdVMEZOYUdWT1ZHbERWVlIzUlV0eFQzZFpkRzR6V21KWWQwcEVWRXREUlc5U2IwVkpkM0JmVTNkR1NIUllOazl0WkdKa1UxZERVelJHWVdVMlp6bG1TVmhOVTFSTU5IaDJTMnhpVVhOblRHRkpZVU5EVlVWcVEycDJka3htWDB4WFpITlJiRlUwU1RoWWVrTTVaazEwWHpZd05ub3dVRFZyV2pGSE1tVkZWbEpvYWxSVGJrNWZaRzlRYUd0eUxVaFZOMjFQYmtOUVRYQldkRnBUY2xkUFdWbHNObFZxZVdacWRWVkthMUJ4Vm5SeU5HUkNRbVpFUmtsSmRHSkhOV3QzZWpkdmNWcEdYM0phTFUwd2JsUk1aVUpoTmpCUlZIUm1hR2huYmxCT1ptOWFXVTkyY1RsMlpVcFdSRmh0YUV3d0xXZzFia05wWXpaUWNHRkpiVjlXY1dkNVRrOU5jVGhNVkVSUlRpMUlTM1pYTXpJMFpYUTNNa1J0V0dGMVpVUXRZbGg2VVY5T1kyTTVhVTkxZW0xU1dGZFlOVFJOT0Vvd1prbzNhMWRJYVd3NVpUWldaMVpDV2tOcmJrVTJMVzVtV2w5TVJHVjBkbEZ0YlVwWk1saDVTWHAwY25sWFl6aFNUWFYwUTA1elMwMWxZVU5hZEhWcWNHbHhTMFpNYkVOMFQzQXRORVJoYlVFU0pEWTFNekV5TWpBNExUQXdNREF0TW1WaE9DMWlNelE1TFdNNE1tRmtaRGMwWkdZMk5CZ0I%3D"
   }
