@@ -21,3 +21,18 @@ let videoInfo = async()=>{
 `)}
 
 videoInfo();
+
+let BuscarVideosAl = async()=>{
+    function nuevoOrden(array){
+        for(let i = array.length - 1; i >0; i--){
+            const j = Math.floor(Math.random() * ( i + 1));
+            [array[i], array[j]] = [array[j], array[i]];
+        }
+        return array;
+    }
+    let peticion = await fetch("../storage/videos.json");
+    let ras = await peticion.json();
+    let peticion2 = await fetch("../storage/Channel-details.json");
+    let perfil =await peticion2.json();
+}
+
