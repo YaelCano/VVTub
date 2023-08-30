@@ -6,7 +6,6 @@ var urls = `https://youtube138.p.rapidapi.com/channel/videos/?id=UC8fkwsjcI_Mhra
 var url = `https://youtube138.p.rapidapi.com/video/details/?id=${localID}&hl=en&gl=US`;
 var urlchanel = `https://youtube138.p.rapidapi.com/channel/details/?id=UC8fkwsjcI_MhralEX1g4OBw&hl=en&gl=US`
 const options = {
-	method: 'GET',
 	headers: {
 		'X-RapidAPI-Key': '06d3020809msh3917a35a5e77a8ep1dc35ejsn1d5a0c87f8ff',
 		'X-RapidAPI-Host': 'youtube138.p.rapidapi.com'

@@ -1,6 +1,7 @@
-var menuIcon = document.querySelector(".menu-icon"); 
+
 var sidebar = document.querySelector(".sidebar");    
 var container = document.querySelector(".container");
+var menuIcon = document.querySelector(".menu-icon"); 
 var urls = null
 var urlchanel = null
 var urls = `https://youtube138.p.rapidapi.com/channel/videos/?id=UC8fkwsjcI_MhralEX1g4OBw&hl=en&gl=US`;
@@ -8,7 +9,7 @@ var urlchanel =`https://youtube138.p.rapidapi.com/channel/details/?id=UC8fkwsjcI
 const options = {
 	method: 'GET',
 	headers: {
-		'X-RapidAPI-Key': 'ac71e22b93mshaefd587986470d2p16c0c9jsnafc7ac1f05fa',
+		'X-RapidAPI-Key': '2b4208a608msh8bf28d9508f48c4p16fa47jsn26ff95d23029',
 		'X-RapidAPI-Host': 'youtube138.p.rapidapi.com'
 	}
 }
@@ -19,8 +20,8 @@ menuIcon.onclick = function() {
 }
 /*Funcion que trae todos los video de la pagina principal*/
 let video =async()=>{
-    let videos = await fetch("../storage/videos.json", options);
-    let channel = await fetch("../storage/channel.json", options);
+    let videos = await fetch(urls, options);
+    let channel = await fetch(urlchanel, options);
     let vid = await videos.json();
     let cha = await channel.json();
     /*Funcion Para reordenar los video y que sean random */
