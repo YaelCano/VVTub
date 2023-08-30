@@ -9,23 +9,23 @@
     <script src="js/principal.js" defer></script>
     <title>VisVTube</title>
 </head>
-<body>
-    
+<body>   
     <nav class="flex-div">
         <div class="nav-left flex-div">
             <img src="images/menu.png" alt="menu" class="menu-icon">
             <img src="images/logo.png" alt="logo" class="logo">
         </div>
-        <div class="nav-middle flex-div">
+        <div class="nav-middle flex-div" style="display: flex; flex-direction: column;">
             <div class="search-box flex-div">
-                <input type="text" placeholder="Search">
+                <input id="chartSearch" type="text" placeholder="Search">
                 <img src="images/search.png" alt="Search">
+            </div>
+            <div style="flex-direction: column; width: 100%; overflow: visible;">
                 <div id="active">
-                    <ul id="SearchAll">                       
+                    <ul id="SearchAll">
                     </ul>
                 </div>
             </div>
-
         </div>
         <div class="nav-right flex-div">
             <img src="images/upload.png">
@@ -34,35 +34,21 @@
             <img src="images/Jack.png" class="user-icon">
         </div>
     </nav>
-    <!-----------------siderbar------------------------------------->
-    <div class="siderbar">
-        <div class="shortcut-links">
-            <a href="/index.html"><img src="images/home.png"><p>Home</p></a>
-            <a href=""><img src="images/explore.png"><p>Explore</p></a>
-            <a href=""><img src="images/subscriprion.png"><p>Subscripcion</p></a>
-            <a href=""><img src="images/library.png"><p>Library</p></a>
-            <a href=""><img src="images/history.png"><p>History</p></a>
-            <a href=""><img src="images/playlist.png"><p>Playlist</p></a>
-            <a href=""><img src="images/messages.png"><p>Messages</p></a>
-            <a href=""><img src="images/show-more.png"><p>show More</p></a>
-            <hr>
+    <div class="sidebar" >
+        <div class="shortcut-links" id="sidebar">
         </div>
         <div class="subscribe-list">
-            <h3>SUSCRIBETE</h3>
-            <a href=""><img src="images/Jack.png"><p>Jack</p></a>
-            <a href=""><img src="images/gerard.png"><p>gerard</p></a>
-            <a href=""><img src="images/simon.png"><p>gerard</p></a>
+            <h3>Subscribe</h3>
+            <a href=""><img src="images/Jack.png"><p>Jholver</p></a>
         </div>
     </div>
 <div class="container">
-    <div class="banner">
-        <img src="images/banner.png">
+    <div class="banner" id="banner">
     </div>
-    <div id="container-list" class="list-container">
-
+    <div class="list-container" id="videos">
     </div>
 </div>
-
-<script  src="script.js"></script>
+<script  src="js/principal.js"></script>
+<script src="script.js"></script>
 </body>
 </html>

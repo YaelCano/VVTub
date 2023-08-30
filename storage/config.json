@@ -1,0 +1,37 @@
+{
+    "sidebar":{
+        "principal":{
+            "text":"Home",
+            "images":"../images/home.png"
+        },
+        "secondary":[
+        {
+            "text":"Explore",
+            "images":"../images/explore.png"
+        },
+        {
+            "text":"Subscription",
+            "images":"../images/subscriprion.png"
+        },
+        {
+            "text":"Library",
+            "images":"../images/library.png"
+        },
+        {
+            "text":"History",
+            "images":"../images/history.png"
+        },
+        {
+            "text":"Playlist",
+            "images":"../images/playlist.png"
+        },
+        {
+            "text":"Messages",
+            "images":"../images/messages.png"
+        },
+        {
+            "text":"show More",
+            "images":"../images/show-more.png"
+        }]
+    }
+}

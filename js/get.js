@@ -1,26 +1,97 @@
-// const options = {
-// 	method: 'GET',
-// 	headers: {
-// 		'X-RapidAPI-Key': '219c9d8956msh59d5178ab85fbf9p1159e9jsn66a291f5d2e4',
-// 		'X-RapidAPI-Host': 'youtube138.p.rapidapi.com'
-// 	}
-// };
-
-
-// export  const SearchAll = async(p1)=>{
-//     options.method = 'GET';
-//     const peticion = await fetch(`https://youtube138.p.rapidapi.com/channel/search/?id=UC8fkwsjcI_MhralEX1g4OBw&q=${p1}&hl=en&gl=US`, options);
-//     const json = await peticion.json();
-//     let h = 0, cont = 0;
-//     let array = json.contents.map((val,id)=>{
-//         if(val.playlist) return undefined;
-//         cont++;
-//         if(cont<=10) h = 30*cont;
-
-//         return `<li><a href=""></a></li>`;
-//     })
-//     document.querySelector("#active").style.heigth =`${h}px`;
-//     document.querySelector("#SearchAll").innerHTML = null;
-//     Document.querySelector("#SearchAll").insertAdjacentHTML("beforeend", array.join(" "));
+let localID = localStorage.getItem('Id')
+var urls=null
+var url=null
+var urlchanel=null
+var urls = `https://youtube138.p.rapidapi.com/channel/videos/?id=UC8fkwsjcI_MhralEX1g4OBw&hl=en&gl=US`;
+var url = `https://youtube138.p.rapidapi.com/video/details/?id=${localID}&hl=en&gl=US`;
+var urlchanel = `https://youtube138.p.rapidapi.com/channel/details/?id=UC8fkwsjcI_MhralEX1g4OBw&hl=en&gl=US`
+const options = {
+	method: 'GET',
+	headers: {
+		'X-RapidAPI-Key': '06d3020809msh3917a35a5e77a8ep1dc35ejsn1d5a0c87f8ff',
+		'X-RapidAPI-Host': 'youtube138.p.rapidapi.com'
+	}
+}
+let listvideo = async () => {
+    let videos = await fetch(urls, options);
+    let channel = await fetch(urlchanel ? urlchanel : "../storage/channel.json", options);
+    let vid = await videos.json();
+    let cha = await channel.json();
+    function newarray(array) {
+        for (let i = array.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [array[i], array[j]] = [array[j], array[i]];
+        }
+        return array;
+    }
+    const parametro = vid.contents
+    const newcontents = newarray(parametro)
+    let Selection = document.querySelector("#videos");
+    Selection.insertAdjacentHTML("beforeend",/*html*/ `
+        ${newcontents.map((value) =>/*html*/` 
+        <div class="box-video" data-video-id="${value.video.videoId}">
+        <a href="" class="small-thumbnail"><img src="${value.video.thumbnails[3].url}"></a>                
+                <div class="vid-info">
+                    <a href="start.html">${value.video.title}</a>
+                    <p>${cha.title}</p>
+                    <p>${value.video.stats.views} views &bull; ${value.video.publishedTimeText}</p>
+                </div>
+        </div>`).join(" ")}
+    `)
+    const info = document.querySelectorAll(".box-video")
+    info.forEach(video => {
+        video.addEventListener('click', () => {
+            let videoID = video.getAttribute("data-video-id")
+            localStorage.setItem('Id', videoID)
+            window.location.href = 'start.html';
+        })
+    })
+    function newarray(array) {
+        for (let i = array.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [array[i], array[j]] = [array[j], array[i]];
+        }
+        return array;
+    }
+}
+let screenvideo = async () => {
+    let id = localID
+    console.log(id)
+    let channel = await fetch(urlchanel ? urlchanel : "../storage/channel.json", options);
+    let details = await fetch(url ? url: "../storage/videodetils.json", options);
+    let det = await details.json();
+    let cha = await channel.json();
+    let Selection2 = document.querySelector("#play-video");
+    Selection2.insertAdjacentHTML("beforeend",/*html*/ `
+    <iframe id="video-grande" src="https://www.youtube.com/embed/${id}?si=uSQ-OWYwAACGFsV9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <h3>${det.title}</h3>
+    <div class="play-video-info">
+        <p>${det.stats.views} &bull; ${det.publishedDate}</p>
+        <div>
+            <a href=""><img src="images/like.png">${det.stats.likes}</a>
+            <a href=""><img src="images/dislike.png">0</a>
+            <a href=""><img src="images/share.png">share</a>
+            <a href=""><img src="images/save.png">save</a>
+        </div>
+    </div>
+    <hr>
+    <div class="plublisher">
+        <img src="${det.author.avatar[2].url}">
+        <div>
+            <p>${det.author.title}</p>
+            <span>${det.author.stats.subscribersText}</span>
+        </div>
+        <button type="button">Subscribe</button>
+    </div>
+    <div class="vid-description">
+        <p>${cha.joinedDateText} </p>
+        <p>${det.description}</p>
+        <hr>
+        <h4>The comments are disabled.</h4>
+    </div>
+    `)
     
-// }
+}
+
+screenvideo()
+listvideo()
